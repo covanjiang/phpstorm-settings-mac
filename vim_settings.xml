@@ -1,0 +1,53 @@
+<application>
+  <component name="VimEditorSettings">
+    <editor />
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>help</entry>
+      </history-cmd>
+    </history>
+  </component>
+  <component name="VimKeySettings">
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/code/admin.apkfab.com/app/Admin/Controllers/ApkCommonController.php" timestamp="1603273741087">
+        <mark key="'" line="109" column="12" />
+      </file>
+      <file name="$USER_HOME$/code/covanjiang.github.io/_layouts/tag.html" timestamp="1603331823880" />
+      <file name="$USER_HOME$/code/covanjiang.github.io/_pages/search.md" timestamp="1603331705593" />
+    </filemarks>
+    <jumps>
+      <jump line="109" column="12" filename="$USER_HOME$/code/admin.apkfab.com/app/Admin/Controllers/ApkCommonController.php" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name=":" type="4">
+        <text>help</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="false" />
+    <notifications>
+      <idea-join enabled="false" />
+      <idea-put enabled="false" />
+    </notifications>
+  </component>
+</application>
