@@ -7,8 +7,24 @@
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="$USER_HOME$/code/demo/routes/web.php" timestamp="1603433390591">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+    </filemarks>
     <jumps />
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHJldHVybiB2aWV3KCd3ZWxjb21lJyk7Cg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHJldHVybiB2aWV3KCd3ZWxjb21lJyk7Cg==</text>
+      </register>
+    </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
@@ -17,7 +33,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="true" />
+    <state version="6" enabled="false" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="false" />
