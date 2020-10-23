@@ -5,6 +5,11 @@
   <component name="VimKeySettings">
     <shortcut-conflicts />
   </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks />
+    <jumps />
+  </component>
   <component name="VimSearchSettings">
     <search>
       <last-dir>0</last-dir>
