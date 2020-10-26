@@ -2,6 +2,9 @@
   <action id="ActivateDatabaseToolWindow">
     <keyboard-shortcut first-keystroke="alt 2" />
   </action>
+  <action id="CloseActiveTab">
+    <keyboard-shortcut first-keystroke="alt x" />
+  </action>
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="alt f" />
   </action>
