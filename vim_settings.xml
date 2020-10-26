@@ -8,6 +8,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/console" timestamp="1603691671318">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/demo/routes/web.php" timestamp="1603433390591">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />

@@ -1,4 +1,13 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="ActivateDatabaseToolWindow">
+    <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="alt 1" />
+  </action>
   <action id="ToggleDistractionFreeMode">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
