@@ -8,7 +8,6 @@
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
-  <action id="PasteMultiple" />
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="alt 1" />
   </action>
