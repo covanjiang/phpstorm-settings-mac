@@ -1,12 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="You may specify multiple password reset configurations if you have more | than one user table or model in the application and you want to have | separate password reset settings based on the specific user types. | | The expire time is the number of minutes that the reset token should be | considered valid. This security feature keeps tokens short-lived so | they have less time to be guessed. You may change this as needed." />
       <item value="prepend" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1" />
+        <entry key="ENGLISH" value="2" />
       </map>
     </option>
   </component>
