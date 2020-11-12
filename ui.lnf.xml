@@ -3,7 +3,6 @@
     <option name="EDITOR_TAB_LIMIT" value="15" />
     <option name="IDE_AA_TYPE" value="Greyscale" />
     <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
-    <option name="SHOW_MEMORY_INDICATOR" value="true" />
     <option name="SHOW_TOOL_WINDOW_NUMBERS" value="false" />
   </component>
 </application>
