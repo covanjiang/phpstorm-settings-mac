@@ -1,6 +1,8 @@
 <application>
   <component name="VimEditorSettings">
-    <editor />
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
   </component>
   <component name="VimKeySettings">
     <shortcut-conflicts />
@@ -38,7 +40,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="false" />
+    <state version="7" enabled="false" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="false" />
