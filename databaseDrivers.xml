@@ -67,7 +67,7 @@
       <option name="source-loading" value="USER_SOURCES" />
       <option name="schema-control" value="AUTOMATIC" />
     </driver>
-    <driver id="mysql">
+    <driver id="mysql" name="MySQL 5.1">
       <artifact use="false" />
       <option name="auto-sync" value="true" />
       <option name="auto-commit" value="true" />
