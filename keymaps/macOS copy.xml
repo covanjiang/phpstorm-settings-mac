@@ -6,7 +6,7 @@
     <keyboard-shortcut first-keystroke="alt x" />
   </action>
   <action id="FileStructurePopup">
-    <keyboard-shortcut first-keystroke="alt e" />
+    <keyboard-shortcut first-keystroke="meta 3" />
   </action>
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="alt 1" />
