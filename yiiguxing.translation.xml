@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="If you have multiple user tables or models you may configure multiple | sources which represent each model / table. These sources may then | be assigned to any extra authentication guards you have defined." />
+      <item value="All authentication drivers have a user provider. This defines how the | users are actually retrieved out of your database or other storage | mechanisms used by this application to persist your user's data." />
+      <item value="Next, you may define every authentication guard for your application. | Of course, a great default configuration has been defined for you | here which uses session storage and the Eloquent user provider." />
       <item value="wildcard permission" />
       <item value="| When authenticating your first-party SPA with Sanctum you may need to | customize some of the middleware Sanctum uses while processing the | request. You may change the middleware listed below as required. |" />
       <item value="When authenticating your first-party SPA with Sanctum you may need to | customize some of the middleware Sanctum uses while processing the | request. You may change the middleware listed below as required." />
@@ -15,8 +18,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="8" />
+        <entry key="CHINESE" value="11" />
+        <entry key="ENGLISH" value="12" />
       </map>
     </option>
   </component>
