@@ -1,9 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="If the payload is not valid JSON or does not have the proper keys set we will // assume it is invalid and bail out of the routine since we will not be able // to decrypt the given value. We'll also check the MAC for this encryption." />
       <item value="These middleware will be assigned to every Telescope route, giving you | the chance to add your own middleware to this list or change any of | the existing middleware. Or, you can simply stick with this list." />
       <item value="Register the permission check method on the gate. * We resolve the Gate fresh here, for benefit of long-running instances." />
-      <item value="If the payload is not valid JSON or does not have the proper keys set we will // assume it is invalid and bail out of the routine since we will not be able // to decrypt the given value. We'll also check the MAC for this encryption." />
       <item value="/ Once we have the foreign key names, we'll just create a new Eloquent query // for the related models and returns the relationship instance which will // actually be responsible for retrieving and hydrating every relations." />
       <item value="If you have multiple user tables or models you may configure multiple | sources which represent each model / table. These sources may then | be assigned to any extra authentication guards you have defined." />
       <item value="All authentication drivers have a user provider. This defines how the | users are actually retrieved out of your database or other storage | mechanisms used by this application to persist your user's data." />
