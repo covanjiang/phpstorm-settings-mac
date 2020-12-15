@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Sync the intermediate tables with a list of IDs or collection of models." />
       <item value="If the payload is not valid JSON or does not have the proper keys set we will // assume it is invalid and bail out of the routine since we will not be able // to decrypt the given value. We'll also check the MAC for this encryption." />
       <item value="These middleware will be assigned to every Telescope route, giving you | the chance to add your own middleware to this list or change any of | the existing middleware. Or, you can simply stick with this list." />
       <item value="Register the permission check method on the gate. * We resolve the Gate fresh here, for benefit of long-running instances." />
@@ -22,8 +23,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="15" />
-        <entry key="ENGLISH" value="16" />
+        <entry key="CHINESE" value="16" />
+        <entry key="ENGLISH" value="17" />
       </map>
     </option>
   </component>
