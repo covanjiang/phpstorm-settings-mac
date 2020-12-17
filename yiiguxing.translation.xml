@@ -1,14 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This is the subdomain where Telescope will be accessible from. If the | setting is null, Telescope will reside under the same domain as the | application. Otherwise, this value will be used as the subdomain." />
       <item value="Now we are finally ready to attach the new records. Note that we'll disable // touching until after the entire operation is complete so we don't fire a // ton of touch operations until we are totally done syncing the records." />
       <item value="Next, we will take the differences of the currents and given IDs and detach // all of the entities that exist in the &quot;current&quot; array but are not in the // array of the new IDs given to the method which will complete the sync." />
       <item value="First we need to attach any of the associated models that are not currently // in this joining table. We'll spin through the given IDs, checking to see // if they exist in the array of current ones, and if not we will insert." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="19" />
-        <entry key="ENGLISH" value="20" />
+        <entry key="CHINESE" value="20" />
+        <entry key="ENGLISH" value="21" />
       </map>
     </option>
   </component>
