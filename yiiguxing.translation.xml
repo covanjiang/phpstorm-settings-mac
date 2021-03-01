@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="First we will check for the presence of a mutator for the set operation which simply lets the developers tweak the attribute as it is set on the model, such as &quot;json_encoding&quot; an listing of data for storage." />
       <item value="If the model is brand new" />
       <item value="This is the subdomain where Telescope will be accessible from. If the | setting is null, Telescope will reside under the same domain as the | application. Otherwise, this value will be used as the subdomain." />
       <item value="Now we are finally ready to attach the new records. Note that we'll disable // touching until after the entire operation is complete so we don't fire a // ton of touch operations until we are totally done syncing the records." />
@@ -9,8 +10,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="21" />
-        <entry key="ENGLISH" value="22" />
+        <entry key="CHINESE" value="22" />
+        <entry key="ENGLISH" value="23" />
       </map>
     </option>
   </component>
