@@ -1,5 +1,4 @@
 <code_scheme name="Default" version="173">
-  <option name="RIGHT_MARGIN" value="256" />
   <PHPCodeStyleSettings>
     <option name="ALIGN_PHPDOC_PARAM_NAMES" value="true" />
     <option name="PHPDOC_BLANK_LINE_BEFORE_TAGS" value="true" />
@@ -18,7 +17,7 @@
     <option name="RIGHT_MARGIN" value="256" />
   </codeStyleSettings>
   <codeStyleSettings language="PHP">
-    <option name="RIGHT_MARGIN" value="256" />
+    <option name="RIGHT_MARGIN" value="120" />
     <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
     <option name="LINE_COMMENT_ADD_SPACE" value="true" />
     <option name="BLANK_LINES_AFTER_PACKAGE" value="1" />
