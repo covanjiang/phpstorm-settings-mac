@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="If an implementation of UserInterface was returned, we'll ask the provider to validate the user against the given credentials, and if they are in fact valid we'll log the users into the application and return true." />
+      <item value="Retrieve" />
       <item value="Determine if the request has a URI that should pass through verification." />
       <item value="If we actually found models we will also eager load any relationships that have been specified as needing to be eager loaded, which will solve the n+1 query issue for the developers to avoid running a lot of queries." />
       <item value="First we will check for the presence of a mutator for the set operation which simply lets the developers tweak the attribute as it is set on the model, such as &quot;json_encoding&quot; an listing of data for storage." />
@@ -12,8 +14,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="24" />
-        <entry key="ENGLISH" value="25" />
+        <entry key="CHINESE" value="26" />
+        <entry key="ENGLISH" value="27" />
       </map>
     </option>
   </component>
