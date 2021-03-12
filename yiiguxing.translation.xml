@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The validation presence verifier is responsible for determining the existence of values in a given data collection which is typically a relational database or other persistent data stores. It is used to check for &quot;uniqueness&quot; as well." />
+      <item value="Register the database presence verifier." />
       <item value="If an implementation of UserInterface was returned, we'll ask the provider to validate the user against the given credentials, and if they are in fact valid we'll log the users into the application and return true." />
       <item value="Retrieve" />
       <item value="Determine if the request has a URI that should pass through verification." />
@@ -14,8 +16,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="26" />
-        <entry key="ENGLISH" value="27" />
+        <entry key="CHINESE" value="28" />
+        <entry key="ENGLISH" value="29" />
       </map>
     </option>
   </component>
