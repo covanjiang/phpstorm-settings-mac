@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Reports union type declarations that contain redundant types, for example, a union type that contains both the class alias and the original class." />
+      <item value="Reports elements that have &amp; in declaration and not effectively used as references." />
+      <item value="Checks that variables are declared explicitly with a var statement. The validation works in JavaScript, html or jsp files." />
       <item value="A list of the inputs that are never flashed for validation exceptions." />
       <item value="Apk common PUBLISHED" />
       <item value="Add conditions to a given field based on a Closure." />
