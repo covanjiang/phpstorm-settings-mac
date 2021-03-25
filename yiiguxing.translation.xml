@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="We call this approach &quot;line based&quot;. We believe that Parsedown is the first Markdown parser to use it. Since the release of Parsedown, other developers have used the same approach to develop other Markdown parsers in PHP and in other languages." />
+      <item value="It tries to read Markdown like a human. First, it looks at the lines. It’s interested in how the lines start. This helps it recognise blocks. It knows, for example, that if a line starts with a `-` then perhaps it belongs to a list. Once it recognises the blocks, it continues to the content. As it reads, it watches out for special characters. This helps it recognise inline elements (or inlines)." />
       <item value="Reports union type declarations that contain redundant types, for example, a union type that contains both the class alias and the original class." />
       <item value="Reports elements that have &amp; in declaration and not effectively used as references." />
       <item value="Checks that variables are declared explicitly with a var statement. The validation works in JavaScript, html or jsp files." />
@@ -22,12 +24,12 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="30" />
-        <entry key="ENGLISH" value="31" />
+        <entry key="CHINESE" value="32" />
+        <entry key="ENGLISH" value="33" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1616124818917" />
+    <option name="lastTrimTime" value="1616581360455" />
   </component>
 </application>
