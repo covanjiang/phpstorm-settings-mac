@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="TW Top Ten Has Been Copied at some time in the past" />
+      <item value="TW Top Ten Has Been Copied!" />
+      <item value="TW Top Ten Has Been Completed at once" />
       <item value="SQLSTATE[HY000]: General error: 2014 Cannot execute queries while other unbuffered queries are active. Consider using PDOStatement::fetchAll()." />
       <item value="Alternatively, if your code is only ever going to run against mysql, you may enable query buffering by setting the PDO::MYSQL_ATTR_USE_BUFFERED_QUERY attribute." />
       <item value="deprecated" />
