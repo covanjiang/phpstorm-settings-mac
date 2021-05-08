@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Once we save the related model, we need to attach it to the base model via through intermediate table so we'll use the existing &quot;attach&quot; method to accomplish this which will insert the record and any more attributes." />
       <item value="prefix" />
       <item value="Attaching DOM nodes from multiple documents in the same crawler is forbidden." />
       <item value="Channel" />
@@ -44,6 +45,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1619316859286" />
+    <option name="lastTrimTime" value="1620438189340" />
   </component>
 </application>
