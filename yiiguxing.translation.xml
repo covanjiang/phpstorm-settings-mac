@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns the URL to an object identified by its bucket and key. The URL returned by this method is not signed nor does it ensure that the bucket and key given to the method exist. If you need a signed URL, then use the {@see \Aws\S3\S3Client::createPresignedRequest} method and get the URI of the signed request. @param string bucket The name of the bucket where the object is located @param string key The key of the object @return string The URL to the object" />
       <item value="This condition execution costs less than the previous one." />
       <item value="Once we save the related model, we need to attach it to the base model via through intermediate table so we'll use the existing &quot;attach&quot; method to accomplish this which will insert the record and any more attributes." />
       <item value="prefix" />
@@ -40,8 +41,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="32" />
-        <entry key="ENGLISH" value="33" />
+        <entry key="CHINESE" value="33" />
+        <entry key="ENGLISH" value="34" />
       </map>
     </option>
   </component>
