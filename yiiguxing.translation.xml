@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="892" />
     <option name="newTranslationDialogY" value="313" />
     <histories>
+      <item value="[EA] 'registerValidationFactory' method can be dropped, as it identical to parent's one." />
       <item value="Set to true to send requests to an S3 path style' . ' endpoint by default.' . ' Can be enabled or disabled on individual operations by setting" />
       <item value="Set to true to send requests to a hardcoded bucket endpoint rather than create an endpoint as a result of injecting the bucket into the URL. This option is useful for interacting with CNAME endpoints" />
       <item value="Returns the URL to an object identified by its bucket and key. The URL returned by this method is not signed nor does it ensure that the bucket and key given to the method exist. If you need a signed URL, then use the {@see \Aws\S3\S3Client::createPresignedRequest} method and get the URI of the signed request. @param string bucket The name of the bucket where the object is located @param string key The key of the object @return string The URL to the object" />
@@ -45,7 +46,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="34" />
+        <entry key="CHINESE" value="35" />
         <entry key="ENGLISH" value="35" />
       </map>
     </option>
