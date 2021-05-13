@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="892" />
     <option name="newTranslationDialogY" value="313" />
     <histories>
+      <item value="Guess MIME Type based on the path of the file and it's content." />
       <item value="[EA] 'registerValidationFactory' method can be dropped, as it identical to parent's one." />
       <item value="Set to true to send requests to an S3 path style' . ' endpoint by default.' . ' Can be enabled or disabled on individual operations by setting" />
       <item value="Set to true to send requests to a hardcoded bucket endpoint rather than create an endpoint as a result of injecting the bucket into the URL. This option is useful for interacting with CNAME endpoints" />
@@ -47,11 +48,11 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="35" />
-        <entry key="ENGLISH" value="35" />
+        <entry key="ENGLISH" value="36" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1620438189340" />
+    <option name="lastTrimTime" value="1620872103746" />
   </component>
 </application>
