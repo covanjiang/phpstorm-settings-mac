@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="892" />
     <option name="newTranslationDialogY" value="313" />
     <histories>
+      <item value="Data can be retrieved from the model object using the get() method of the model (e.g., `\result-&gt;get(\key)`) or &quot;accessing the result like an associative array (e.g. `\result['key']`). You can also execute JMESPath expressions on the result data using the search() method." />
       <item value="Guess MIME Type based on the path of the file and it's content." />
       <item value="[EA] 'registerValidationFactory' method can be dropped, as it identical to parent's one." />
       <item value="Set to true to send requests to an S3 path style' . ' endpoint by default.' . ' Can be enabled or disabled on individual operations by setting" />
@@ -47,8 +48,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="35" />
-        <entry key="ENGLISH" value="36" />
+        <entry key="CHINESE" value="36" />
+        <entry key="ENGLISH" value="37" />
       </map>
     </option>
   </component>
