@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="892" />
     <option name="newTranslationDialogY" value="313" />
     <histories>
+      <item value="If an array is passed as the key, we will assume you want to set an array of values." />
       <item value="Identity" />
       <item value="This option controls the default Identity. You may change these defaults | as required, but they're a perfect start for most applications." />
       <item value="Data can be retrieved from the model object using the get() method of the model (e.g., `\result-&gt;get(\key)`) or &quot;accessing the result like an associative array (e.g. `\result['key']`). You can also execute JMESPath expressions on the result data using the search() method." />
@@ -50,7 +51,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="38" />
+        <entry key="CHINESE" value="39" />
         <entry key="ENGLISH" value="39" />
       </map>
     </option>
