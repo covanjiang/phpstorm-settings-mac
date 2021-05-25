@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="892" />
     <option name="newTranslationDialogY" value="313" />
     <histories>
+      <item value="Next, we will format the path of the file and store the file using a stream since they provide better performance than alternatives. Once we write the file this stream will get closed automatically by us so the developer doesn't have to." />
       <item value="haystack" />
       <item value="Case-insensitively aggregate all of the headers." />
       <item value="Here is where you can register API routes for your application. These | routes are loaded by the RouteServiceProvider within a group which | is assigned the &quot;api&quot; middleware group. Enjoy building your API!" />
@@ -55,7 +56,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="41" />
-        <entry key="ENGLISH" value="41" />
+        <entry key="ENGLISH" value="42" />
       </map>
     </option>
   </component>
