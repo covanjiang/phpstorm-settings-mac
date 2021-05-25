@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="892" />
     <option name="newTranslationDialogY" value="313" />
     <histories>
+      <item value="haystack" />
       <item value="Case-insensitively aggregate all of the headers." />
       <item value="Here is where you can register API routes for your application. These | routes are loaded by the RouteServiceProvider within a group which | is assigned the &quot;api&quot; middleware group. Enjoy building your API!" />
       <item value="If an array is passed as the key, we will assume you want to set an array of values." />
@@ -53,12 +54,12 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="40" />
+        <entry key="CHINESE" value="41" />
         <entry key="ENGLISH" value="41" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1621311449851" />
+    <option name="lastTrimTime" value="1621907908530" />
   </component>
 </application>
