@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="742" />
     <option name="newTranslationDialogY" value="313" />
     <histories>
+      <item value="Reports the trait method use rules that are resolved to methods from a different containing class rather than the one specified in the use declaration." />
+      <item value="Reports the [Pure] annotations used on functions that may produce side effects." />
+      <item value="Reports the values in assignment and comparison expressions that should be replaced with one of the expected values (that is, the values specified via the [ExpectedValues] attribute)." />
       <item value="Reports the use statements with an unnecessary leading \. For namespaced names (fully qualified namespace names containing a namespace separator, such as Foo\Bar as opposed to global names that do not, such as FooBar), the leading backslash is unnecessary and not recommended, as import names must be fully qualified and are not processed relative to the current namespace. See Using namespaces: AliasingImporting (php.net) for details." />
       <item value="Next, we will format the path of the file and store the file using a stream since they provide better performance than alternatives. Once we write the file this stream will get closed automatically by us so the developer doesn't have to." />
       <item value="haystack" />
@@ -52,13 +55,10 @@
       <item value="First we will check for the presence of a mutator for the set operation which simply lets the developers tweak the attribute as it is set on the model, such as &quot;json_encoding&quot; an listing of data for storage." />
       <item value="If the model is brand new" />
       <item value="This is the subdomain where Telescope will be accessible from. If the | setting is null, Telescope will reside under the same domain as the | application. Otherwise, this value will be used as the subdomain." />
-      <item value="Now we are finally ready to attach the new records. Note that we'll disable // touching until after the entire operation is complete so we don't fire a // ton of touch operations until we are totally done syncing the records." />
-      <item value="Next, we will take the differences of the currents and given IDs and detach // all of the entities that exist in the &quot;current&quot; array but are not in the // array of the new IDs given to the method which will complete the sync." />
-      <item value="First we need to attach any of the associated models that are not currently // in this joining table. We'll spin through the given IDs, checking to see // if they exist in the array of current ones, and if not we will insert." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="43" />
+        <entry key="CHINESE" value="46" />
         <entry key="ENGLISH" value="43" />
       </map>
     </option>
