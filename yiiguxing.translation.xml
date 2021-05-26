@@ -1,8 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogX" value="892" />
+    <option name="newTranslationDialogHeight" value="444" />
+    <option name="newTranslationDialogWidth" value="750" />
+    <option name="newTranslationDialogX" value="742" />
     <option name="newTranslationDialogY" value="313" />
     <histories>
+      <item value="Reports the use statements with an unnecessary leading \. For namespaced names (fully qualified namespace names containing a namespace separator, such as Foo\Bar as opposed to global names that do not, such as FooBar), the leading backslash is unnecessary and not recommended, as import names must be fully qualified and are not processed relative to the current namespace. See Using namespaces: AliasingImporting (php.net) for details." />
       <item value="Next, we will format the path of the file and store the file using a stream since they provide better performance than alternatives. Once we write the file this stream will get closed automatically by us so the developer doesn't have to." />
       <item value="haystack" />
       <item value="Case-insensitively aggregate all of the headers." />
@@ -55,7 +58,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="42" />
+        <entry key="CHINESE" value="43" />
         <entry key="ENGLISH" value="43" />
       </map>
     </option>
