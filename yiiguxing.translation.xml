@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="742" />
     <option name="newTranslationDialogY" value="313" />
     <histories>
+      <item value="Execute a callback over each item while chunking by ID." />
+      <item value="Get an array with all orders with a given column removed." />
       <item value="Reports the trait method use rules that are resolved to methods from a different containing class rather than the one specified in the use declaration." />
       <item value="Reports the [Pure] annotations used on functions that may produce side effects." />
       <item value="Reports the values in assignment and comparison expressions that should be replaced with one of the expected values (that is, the values specified via the [ExpectedValues] attribute)." />
@@ -53,17 +55,15 @@
       <item value="Determine if the request has a URI that should pass through verification." />
       <item value="If we actually found models we will also eager load any relationships that have been specified as needing to be eager loaded, which will solve the n+1 query issue for the developers to avoid running a lot of queries." />
       <item value="First we will check for the presence of a mutator for the set operation which simply lets the developers tweak the attribute as it is set on the model, such as &quot;json_encoding&quot; an listing of data for storage." />
-      <item value="If the model is brand new" />
-      <item value="This is the subdomain where Telescope will be accessible from. If the | setting is null, Telescope will reside under the same domain as the | application. Otherwise, this value will be used as the subdomain." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="46" />
-        <entry key="ENGLISH" value="43" />
+        <entry key="ENGLISH" value="45" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1621907908530" />
+    <option name="lastTrimTime" value="1622691362264" />
   </component>
 </application>
