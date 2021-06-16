@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="742" />
     <option name="newTranslationDialogY" value="313" />
     <histories>
+      <item value="Resolved operands types are not complimentary, while they should be ([string, bool, array] vs [int])." />
       <item value="condition" />
       <item value="[EA] The operation results to '(int)request('type')', please add missing parentheses." />
       <item value="Variable 'key' is introduced as a method parameter and overridden here." />
@@ -54,16 +55,15 @@
       <item value="Add conditions to a given field based on a Closure." />
       <item value="The validation presence verifier is responsible for determining the existence of values in a given data collection which is typically a relational database or other persistent data stores. It is used to check for &quot;uniqueness&quot; as well." />
       <item value="Register the database presence verifier." />
-      <item value="If an implementation of UserInterface was returned, we'll ask the provider to validate the user against the given credentials, and if they are in fact valid we'll log the users into the application and return true." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="48" />
+        <entry key="CHINESE" value="49" />
         <entry key="ENGLISH" value="47" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1623223277291" />
+    <option name="lastTrimTime" value="1623816248819" />
   </component>
 </application>
