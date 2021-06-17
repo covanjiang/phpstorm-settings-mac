@@ -18,5 +18,19 @@
         </option>
       </configuration>
     </remote-server>
+    <remote-server name="DockerForMac" type="docker">
+      <configuration>
+        <option name="apiUrl" value="unix:///var/run/docker.sock" />
+        <option name="certificatesPath" />
+        <option name="pathMappings">
+          <list>
+            <DockerPathMappingImpl>
+              <option name="localPath" value="$USER_HOME$/code" />
+              <option name="virtualMachinePath" value="/var/www" />
+            </DockerPathMappingImpl>
+          </list>
+        </option>
+      </configuration>
+    </remote-server>
   </component>
 </application>
