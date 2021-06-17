@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="742" />
     <option name="newTranslationDialogY" value="313" />
     <histories>
+      <item value="The class name of the custom pivot model to use for the relationship." />
+      <item value="Next, we will take the differences of the currents and given IDs and detach all of the entities that exist in the &quot;current&quot; array but are not in the array of the new IDs given to the method which will complete the sync." />
+      <item value="First we need to attach any of the associated models that are not currently in this joining table. We'll spin through the given IDs, checking to see if they exist in the array of current ones, and if not we will insert." />
       <item value="Resolved operands types are not complimentary, while they should be ([string, bool, array] vs [int])." />
       <item value="condition" />
       <item value="[EA] The operation results to '(int)request('type')', please add missing parentheses." />
@@ -52,14 +55,11 @@
       <item value="Checks that variables are declared explicitly with a var statement. The validation works in JavaScript, html or jsp files." />
       <item value="A list of the inputs that are never flashed for validation exceptions." />
       <item value="Apk common PUBLISHED" />
-      <item value="Add conditions to a given field based on a Closure." />
-      <item value="The validation presence verifier is responsible for determining the existence of values in a given data collection which is typically a relational database or other persistent data stores. It is used to check for &quot;uniqueness&quot; as well." />
-      <item value="Register the database presence verifier." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="49" />
-        <entry key="ENGLISH" value="47" />
+        <entry key="ENGLISH" value="50" />
       </map>
     </option>
   </component>
