@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="742" />
     <option name="newTranslationDialogY" value="313" />
     <histories>
+      <item value="Next we will set the limit and offset for this query so that when we get the results we get the proper section of results. Then, we'll create the full paginator instances for these results with the given page and per page." />
       <item value="Now we'll try to update an existing pivot record with the attributes that were given to the method. If the model is actually updated we will add it to the list of updated pivot records so we return them back out to the consumer." />
       <item value="If the ID is not in the list of existing pivot IDs, we will insert a new pivot record, otherwise, we will just update this existing record on this joining table, so that the developers will easily update these records pain free." />
       <item value="Each existing model is detached, and non existing ones are attached." />
@@ -54,12 +55,11 @@
       <item value="We call this approach &quot;line based&quot;. We believe that Parsedown is the first Markdown parser to use it. Since the release of Parsedown, other developers have used the same approach to develop other Markdown parsers in PHP and in other languages." />
       <item value="It tries to read Markdown like a human. First, it looks at the lines. It’s interested in how the lines start. This helps it recognise blocks. It knows, for example, that if a line starts with a `-` then perhaps it belongs to a list. Once it recognises the blocks, it continues to the content. As it reads, it watches out for special characters. This helps it recognise inline elements (or inlines)." />
       <item value="Reports union type declarations that contain redundant types, for example, a union type that contains both the class alias and the original class." />
-      <item value="Reports elements that have &amp; in declaration and not effectively used as references." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="52" />
-        <entry key="ENGLISH" value="53" />
+        <entry key="CHINESE" value="53" />
+        <entry key="ENGLISH" value="54" />
       </map>
     </option>
   </component>
