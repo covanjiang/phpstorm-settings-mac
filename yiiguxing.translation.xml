@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="742" />
     <option name="newTranslationDialogY" value="313" />
     <histories>
+      <item value="Only the first string pool is processed." />
       <item value="Reads 4 bytes from the stream and returns little-endian ordered binary data as signed 32-bit integer." />
       <item value="Reads 2 bytes from the stream and returns little-endian ordered binary data as signed 16-bit integer." />
       <item value="LITTLE ENDIAN ORDER" />
@@ -54,12 +55,11 @@
       <item value="TW Top Ten Has Been Copied at some time in the past" />
       <item value="TW Top Ten Has Been Copied!" />
       <item value="TW Top Ten Has Been Completed at once" />
-      <item value="SQLSTATE[HY000]: General error: 2014 Cannot execute queries while other unbuffered queries are active. Consider using PDOStatement::fetchAll()." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="62" />
-        <entry key="ENGLISH" value="63" />
+        <entry key="CHINESE" value="63" />
+        <entry key="ENGLISH" value="64" />
       </map>
     </option>
   </component>
