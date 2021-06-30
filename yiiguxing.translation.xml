@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="742" />
     <option name="newTranslationDialogY" value="313" />
     <histories>
+      <item value="Returns the current machine endian order." />
       <item value="&quot;8.38.8.83&quot;, &quot;8.8.18.81&quot;, &quot;8.8.8.83&quot;, &quot;8.8.8.82&quot;, &quot;1.2.3.41&quot;, &quot;1.2.3.4&quot;, &quot;11.11.11.11&quot;, &quot;11.1.1.11&quot;, &quot;21.2.2.2&quot;, &quot;11.1.1.1&quot;, &quot;101.37.18.32&quot;, &quot;2600:3c00:0000:0000:0000:0000:0000:000064&quot;, &quot;2041:0db8:0100:0000:0000:0000:0000:000064&quot;, &quot;2001:0db8:001a:1111:0000:0000:0000:000064&quot;, &quot;40.77.0.016&quot;, &quot;66.249.0.016&quot;, &quot;21.31.0.016&quot;," />
       <item value="Get the count of the total records for the paginator." />
       <item value="Get a base query builder instance." />
@@ -54,16 +55,15 @@
       <item value="Alternatively, if your code is only ever going to run against mysql, you may enable query buffering by setting the PDO::MYSQL_ATTR_USE_BUFFERED_QUERY attribute." />
       <item value="deprecated" />
       <item value="Echo exposes an expressive API for subscribing to channels and listening for events that are broadcast by Laravel. Echo and event broadcasting allows your team to easily build robust real-time web applications." />
-      <item value="We'll load the axios HTTP library which allows us to easily issue requests to our Laravel back-end. This library automatically handles sending the CSRF token as a header based on the value of the &quot;XSRF&quot; token cookie." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="58" />
-        <entry key="ENGLISH" value="59" />
+        <entry key="CHINESE" value="59" />
+        <entry key="ENGLISH" value="60" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1624503528203" />
+    <option name="lastTrimTime" value="1625019548578" />
   </component>
 </application>
