@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="742" />
     <option name="newTranslationDialogY" value="313" />
     <histories>
+      <item value="Reads 4 bytes from the stream and returns little-endian ordered binary data as signed 32-bit integer." />
+      <item value="Reads 2 bytes from the stream and returns little-endian ordered binary data as signed 16-bit integer." />
+      <item value="LITTLE ENDIAN ORDER" />
       <item value="Returns the current machine endian order." />
       <item value="&quot;8.38.8.83&quot;, &quot;8.8.18.81&quot;, &quot;8.8.8.83&quot;, &quot;8.8.8.82&quot;, &quot;1.2.3.41&quot;, &quot;1.2.3.4&quot;, &quot;11.11.11.11&quot;, &quot;11.1.1.11&quot;, &quot;21.2.2.2&quot;, &quot;11.1.1.1&quot;, &quot;101.37.18.32&quot;, &quot;2600:3c00:0000:0000:0000:0000:0000:000064&quot;, &quot;2041:0db8:0100:0000:0000:0000:0000:000064&quot;, &quot;2001:0db8:001a:1111:0000:0000:0000:000064&quot;, &quot;40.77.0.016&quot;, &quot;66.249.0.016&quot;, &quot;21.31.0.016&quot;," />
       <item value="Get the count of the total records for the paginator." />
@@ -52,14 +55,11 @@
       <item value="TW Top Ten Has Been Copied!" />
       <item value="TW Top Ten Has Been Completed at once" />
       <item value="SQLSTATE[HY000]: General error: 2014 Cannot execute queries while other unbuffered queries are active. Consider using PDOStatement::fetchAll()." />
-      <item value="Alternatively, if your code is only ever going to run against mysql, you may enable query buffering by setting the PDO::MYSQL_ATTR_USE_BUFFERED_QUERY attribute." />
-      <item value="deprecated" />
-      <item value="Echo exposes an expressive API for subscribing to channels and listening for events that are broadcast by Laravel. Echo and event broadcasting allows your team to easily build robust real-time web applications." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="59" />
-        <entry key="ENGLISH" value="60" />
+        <entry key="CHINESE" value="62" />
+        <entry key="ENGLISH" value="63" />
       </map>
     </option>
   </component>
