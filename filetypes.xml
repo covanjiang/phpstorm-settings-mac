@@ -4,6 +4,7 @@
       <mapping pattern="fileupload" type="AUTO_DETECTED" />
       <mapping ext="fasta" type="PLAIN_TEXT" />
       <mapping ext="srt" type="PLAIN_TEXT" />
+      <mapping ext="arsc" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
