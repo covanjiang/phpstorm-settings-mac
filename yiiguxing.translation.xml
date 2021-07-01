@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="742" />
     <option name="newTranslationDialogY" value="313" />
     <histories>
+      <item value="This file is where you may define all of your Closure based console | commands. Each Closure is bound to a command instance allowing a | simple approach to interacting with each command's IO methods." />
+      <item value="Here you may register all of the event broadcasting channels that your | application supports. The given channel authorization callbacks are | used to check if an authenticated user can listen to the channel." />
       <item value="get SimleXmlElement created from AndroidManifest.xml" />
       <item value="the anount of bits to shift back and forth, so that we get the correct signage" />
       <item value="Iterate through all chunks" />
@@ -53,13 +55,11 @@
       <item value="prefix" />
       <item value="Attaching DOM nodes from multiple documents in the same crawler is forbidden." />
       <item value="Channel" />
-      <item value="Throws &lt;a href=&quot;http:php.netmanualzhclass.jsonexception.php&quot; class=&quot;classname&quot;&gt;JsonException&lt;a&gt; if an error occurs instead of setting the global error state that is retrieved with &lt;span class=&quot;function&quot;&gt;{@link json_last_error()}&lt;span&gt; and &lt;span class=&quot;function&quot;&gt;{@link json_last_error_msg()}&lt;span&gt;. &lt;strong&gt;&lt;code&gt;JSON_PARTIAL_OUTPUT_ON_ERROR&lt;code&gt;&lt;strong&gt; takes precedence over &lt;strong&gt;&lt;code&gt;JSON_THROW_ON_ERROR&lt;code&gt;&lt;strong&gt;. Available as of PHP 7.3.0." />
-      <item value="[EA] New value type (int) is not matching the resolved parameter type and might introduce types-related false-positives." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="66" />
-        <entry key="ENGLISH" value="67" />
+        <entry key="CHINESE" value="68" />
+        <entry key="ENGLISH" value="69" />
       </map>
     </option>
   </component>
