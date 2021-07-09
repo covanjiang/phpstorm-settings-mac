@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="742" />
     <option name="newTranslationDialogY" value="313" />
     <histories>
+      <item value="Authentication settings for all admin pages. Include an authentication | guard and a user provider setting of authentication driver. | | You can specify a controller for `login` `logout` and other auth routes." />
+      <item value="The installation directory of the controller and routing configuration | files of the administration page. The default is `appAdmin`, which must | be set before running `artisan admin::install` to take effect." />
+      <item value="The routing configuration of the admin page, including the path prefix, | the controller namespace, and the default middleware. If you want to | access through the root path, just set the prefix to empty string." />
+      <item value="The logo of all admin pages. You can also set it as an image by using a | `img` tag, eg '&lt;img src=&quot;http:logo-url&quot; alt=&quot;Admin logo&quot;&gt;'." />
+      <item value="This value is the name of dcat-admin, This setting is displayed on the | login page." />
       <item value="If this attribute contains a JSON -&gt;, we'll set the proper value in the attribute's underlying array. This takes care of properly nesting an attribute in the array's value in the case of deeply nested items." />
       <item value="If an attribute is listed as a &quot;date&quot;, we'll convert it from a DateTime instance into a form proper for storage on the database tables using the connection grammar's date format. We will auto set the values." />
       <item value="This file is where you may define all of your Closure based console | commands. Each Closure is bound to a command instance allowing a | simple approach to interacting with each command's IO methods." />
@@ -50,20 +55,15 @@
       <item value="Guess MIME Type based on the path of the file and it's content." />
       <item value="[EA] 'registerValidationFactory' method can be dropped, as it identical to parent's one." />
       <item value="Set to true to send requests to an S3 path style' . ' endpoint by default.' . ' Can be enabled or disabled on individual operations by setting" />
-      <item value="Set to true to send requests to a hardcoded bucket endpoint rather than create an endpoint as a result of injecting the bucket into the URL. This option is useful for interacting with CNAME endpoints" />
-      <item value="Returns the URL to an object identified by its bucket and key. The URL returned by this method is not signed nor does it ensure that the bucket and key given to the method exist. If you need a signed URL, then use the {@see \Aws\S3\S3Client::createPresignedRequest} method and get the URI of the signed request. @param string bucket The name of the bucket where the object is located @param string key The key of the object @return string The URL to the object" />
-      <item value="This condition execution costs less than the previous one." />
-      <item value="Once we save the related model, we need to attach it to the base model via through intermediate table so we'll use the existing &quot;attach&quot; method to accomplish this which will insert the record and any more attributes." />
-      <item value="prefix" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="70" />
-        <entry key="ENGLISH" value="71" />
+        <entry key="CHINESE" value="77" />
+        <entry key="ENGLISH" value="78" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1625019548578" />
+    <option name="lastTrimTime" value="1625810729179" />
   </component>
 </application>
