@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="742" />
     <option name="newTranslationDialogY" value="313" />
     <histories>
+      <item value="If the URL does not start with http or https, then we will prepend the base URL onto the URL and navigate to the URL. This will actually navigate to the URL in the browser. Then we will be ready to make assertions, etc." />
+      <item value="Determine the application's base URL." />
+      <item value="Return the default user to authenticate." />
+      <item value="Determine if the tests are running within Laravel Sail." />
+      <item value="Determine whether the Dusk command has disabled headless mode." />
       <item value="Get the callback which resolves the default user to authenticate." />
       <item value="Authentication settings for all admin pages. Include an authentication | guard and a user provider setting of authentication driver. | | You can specify a controller for `login` `logout` and other auth routes." />
       <item value="The installation directory of the controller and routing configuration | files of the administration page. The default is `appAdmin`, which must | be set before running `artisan admin::install` to take effect." />
@@ -50,16 +55,11 @@
       <item value="Case-insensitively aggregate all of the headers." />
       <item value="Here is where you can register API routes for your application. These | routes are loaded by the RouteServiceProvider within a group which | is assigned the &quot;api&quot; middleware group. Enjoy building your API!" />
       <item value="If an array is passed as the key, we will assume you want to set an array of values." />
-      <item value="Identity" />
-      <item value="This option controls the default Identity. You may change these defaults | as required, but they're a perfect start for most applications." />
-      <item value="Data can be retrieved from the model object using the get() method of the model (e.g., `\result-&gt;get(\key)`) or &quot;accessing the result like an associative array (e.g. `\result['key']`). You can also execute JMESPath expressions on the result data using the search() method." />
-      <item value="Guess MIME Type based on the path of the file and it's content." />
-      <item value="[EA] 'registerValidationFactory' method can be dropped, as it identical to parent's one." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="78" />
-        <entry key="ENGLISH" value="79" />
+        <entry key="CHINESE" value="83" />
+        <entry key="ENGLISH" value="84" />
       </map>
     </option>
   </component>
