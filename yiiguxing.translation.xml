@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="742" />
     <option name="newTranslationDialogY" value="313" />
     <histories>
+      <item value="Capabilities" />
+      <item value="Create instance based on response to NEW_SESSION command. Also detect W3COSS dialect and setup the driverexecutor accordingly." />
+      <item value="Construct the RemoteWebDriver by a desired capabilities." />
+      <item value="To be removed in the future. Executor should be passed in the constructor." />
       <item value="Performs a check between the timeout definition and the time the process started. In case you run a background process (with the start method), you should trigger this method regularly to ensure the process timeout @throws ProcessTimedOutException In case the timeout was reached" />
       <item value="Updates the status of the process, reads pipes." />
       <item value="tarts the process and returns after writing the input to STDIN. This method blocks until all STDIN data is sent to the process then it returns while the process runs in the background. The termination of the process can be awaited with wait(). The callback receives the type of output (out or err) and some bytes from the output in real-time while writing the standard input to the process. It allows to have feedback from the independent process during execution." />
@@ -51,15 +55,11 @@
       <item value="[EA] The operation results to '(int)request('type')', please add missing parentheses." />
       <item value="Variable 'key' is introduced as a method parameter and overridden here." />
       <item value="On each chunk result set, we will pass them to the callback and then let the developer take care of everything within the callback, which allows us to keep the memory low for spinning through large result sets for working." />
-      <item value="Execute a callback over each item while chunking by ID." />
-      <item value="Get an array with all orders with a given column removed." />
-      <item value="Reports the trait method use rules that are resolved to methods from a different containing class rather than the one specified in the use declaration." />
-      <item value="Reports the [Pure] annotations used on functions that may produce side effects." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="92" />
-        <entry key="ENGLISH" value="93" />
+        <entry key="CHINESE" value="96" />
+        <entry key="ENGLISH" value="97" />
       </map>
     </option>
   </component>
