@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="742" />
     <option name="newTranslationDialogY" value="313" />
     <histories>
+      <item value="[Experimental] Construct the RemoteWebDriver by an existing session. This constructor can boost the performance a lot by reusing the same browser for the whole test suite. You cannot pass the desired capabilities because the session was created before." />
+      <item value="Returns a list of the currently active sessions." />
       <item value="Capabilities" />
       <item value="Create instance based on response to NEW_SESSION command. Also detect W3COSS dialect and setup the driverexecutor accordingly." />
       <item value="Construct the RemoteWebDriver by a desired capabilities." />
@@ -53,13 +55,11 @@
       <item value="Resolved operands types are not complimentary, while they should be ([string, bool, array] vs [int])." />
       <item value="condition" />
       <item value="[EA] The operation results to '(int)request('type')', please add missing parentheses." />
-      <item value="Variable 'key' is introduced as a method parameter and overridden here." />
-      <item value="On each chunk result set, we will pass them to the callback and then let the developer take care of everything within the callback, which allows us to keep the memory low for spinning through large result sets for working." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="96" />
-        <entry key="ENGLISH" value="97" />
+        <entry key="CHINESE" value="99" />
+        <entry key="ENGLISH" value="100" />
       </map>
     </option>
   </component>
