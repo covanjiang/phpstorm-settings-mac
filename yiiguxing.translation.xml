@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="742" />
     <option name="newTranslationDialogY" value="313" />
     <histories>
+      <item value="This method is not covered by the backward compatibility promise for PHPUnit" />
+      <item value="Store the console output for the given browsers." />
       <item value="If the URL does not start with http or https, then we will prepend the base URL onto the URL and navigate to the URL. This will actually navigate to the URL in the browser. Then we will be ready to make assertions, etc." />
       <item value="Determine the application's base URL." />
       <item value="Return the default user to authenticate." />
@@ -53,13 +55,11 @@
       <item value="Next, we will format the path of the file and store the file using a stream since they provide better performance than alternatives. Once we write the file this stream will get closed automatically by us so the developer doesn't have to." />
       <item value="haystack" />
       <item value="Case-insensitively aggregate all of the headers." />
-      <item value="Here is where you can register API routes for your application. These | routes are loaded by the RouteServiceProvider within a group which | is assigned the &quot;api&quot; middleware group. Enjoy building your API!" />
-      <item value="If an array is passed as the key, we will assume you want to set an array of values." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="83" />
-        <entry key="ENGLISH" value="84" />
+        <entry key="CHINESE" value="85" />
+        <entry key="ENGLISH" value="86" />
       </map>
     </option>
   </component>
