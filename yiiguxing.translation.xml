@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="742" />
     <option name="newTranslationDialogY" value="313" />
     <histories>
+      <item value="Performs a check between the timeout definition and the time the process started. In case you run a background process (with the start method), you should trigger this method regularly to ensure the process timeout @throws ProcessTimedOutException In case the timeout was reached" />
+      <item value="Updates the status of the process, reads pipes." />
+      <item value="tarts the process and returns after writing the input to STDIN. This method blocks until all STDIN data is sent to the process then it returns while the process runs in the background. The termination of the process can be awaited with wait(). The callback receives the type of output (out or err) and some bytes from the output in real-time while writing the standard input to the process. It allows to have feedback from the independent process during execution." />
       <item value="Get the callback which resolves the default user to authenticate." />
       <item value="Capture failure screenshots for each browser." />
       <item value="Store the source code for the given browsers (if necessary)" />
@@ -52,14 +55,11 @@
       <item value="Get an array with all orders with a given column removed." />
       <item value="Reports the trait method use rules that are resolved to methods from a different containing class rather than the one specified in the use declaration." />
       <item value="Reports the [Pure] annotations used on functions that may produce side effects." />
-      <item value="Reports the values in assignment and comparison expressions that should be replaced with one of the expected values (that is, the values specified via the [ExpectedValues] attribute)." />
-      <item value="Reports the use statements with an unnecessary leading \. For namespaced names (fully qualified namespace names containing a namespace separator, such as Foo\Bar as opposed to global names that do not, such as FooBar), the leading backslash is unnecessary and not recommended, as import names must be fully qualified and are not processed relative to the current namespace. See Using namespaces: AliasingImporting (php.net) for details." />
-      <item value="Next, we will format the path of the file and store the file using a stream since they provide better performance than alternatives. Once we write the file this stream will get closed automatically by us so the developer doesn't have to." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="89" />
-        <entry key="ENGLISH" value="90" />
+        <entry key="CHINESE" value="92" />
+        <entry key="ENGLISH" value="93" />
       </map>
     </option>
   </component>
