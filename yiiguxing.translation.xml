@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="742" />
     <option name="newTranslationDialogY" value="313" />
     <histories>
+      <item value="Get all window handles available to the current session." />
       <item value="[Experimental] Construct the RemoteWebDriver by an existing session. This constructor can boost the performance a lot by reusing the same browser for the whole test suite. You cannot pass the desired capabilities because the session was created before." />
       <item value="Returns a list of the currently active sessions." />
       <item value="Capabilities" />
@@ -54,12 +55,11 @@
       <item value="First we need to attach any of the associated models that are not currently in this joining table. We'll spin through the given IDs, checking to see if they exist in the array of current ones, and if not we will insert." />
       <item value="Resolved operands types are not complimentary, while they should be ([string, bool, array] vs [int])." />
       <item value="condition" />
-      <item value="[EA] The operation results to '(int)request('type')', please add missing parentheses." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="99" />
-        <entry key="ENGLISH" value="100" />
+        <entry key="CHINESE" value="100" />
+        <entry key="ENGLISH" value="101" />
       </map>
     </option>
   </component>
