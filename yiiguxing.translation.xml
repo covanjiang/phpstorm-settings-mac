@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="742" />
     <option name="newTranslationDialogY" value="313" />
     <histories>
+      <item value="Get the number of browsers needed for a given callback." />
       <item value="Wait for the given text to be visible inside the given selector." />
       <item value="perhaps we are dealing with dead code here" />
       <item value="Get all window handles available to the current session." />
@@ -54,12 +55,11 @@
       <item value="Each existing model is detached, and non existing ones are attached." />
       <item value="The class name of the custom pivot model to use for the relationship." />
       <item value="Next, we will take the differences of the currents and given IDs and detach all of the entities that exist in the &quot;current&quot; array but are not in the array of the new IDs given to the method which will complete the sync." />
-      <item value="First we need to attach any of the associated models that are not currently in this joining table. We'll spin through the given IDs, checking to see if they exist in the array of current ones, and if not we will insert." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="101" />
-        <entry key="ENGLISH" value="102" />
+        <entry key="CHINESE" value="102" />
+        <entry key="ENGLISH" value="103" />
       </map>
     </option>
   </component>
