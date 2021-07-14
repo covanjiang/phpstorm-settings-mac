@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="742" />
     <option name="newTranslationDialogY" value="313" />
     <histories>
+      <item value="perhaps we are dealing with dead code here" />
       <item value="Get all window handles available to the current session." />
       <item value="[Experimental] Construct the RemoteWebDriver by an existing session. This constructor can boost the performance a lot by reusing the same browser for the whole test suite. You cannot pass the desired capabilities because the session was created before." />
       <item value="Returns a list of the currently active sessions." />
@@ -54,11 +55,10 @@
       <item value="Next, we will take the differences of the currents and given IDs and detach all of the entities that exist in the &quot;current&quot; array but are not in the array of the new IDs given to the method which will complete the sync." />
       <item value="First we need to attach any of the associated models that are not currently in this joining table. We'll spin through the given IDs, checking to see if they exist in the array of current ones, and if not we will insert." />
       <item value="Resolved operands types are not complimentary, while they should be ([string, bool, array] vs [int])." />
-      <item value="condition" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="100" />
+        <entry key="CHINESE" value="101" />
         <entry key="ENGLISH" value="101" />
       </map>
     </option>
