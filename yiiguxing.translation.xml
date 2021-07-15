@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="742" />
     <option name="newTranslationDialogY" value="313" />
     <histories>
+      <item value="Access type for interface member must be omitted" />
       <item value="Get the number of browsers needed for a given callback." />
       <item value="Wait for the given text to be visible inside the given selector." />
       <item value="perhaps we are dealing with dead code here" />
@@ -54,11 +55,10 @@
       <item value="If the ID is not in the list of existing pivot IDs, we will insert a new pivot record, otherwise, we will just update this existing record on this joining table, so that the developers will easily update these records pain free." />
       <item value="Each existing model is detached, and non existing ones are attached." />
       <item value="The class name of the custom pivot model to use for the relationship." />
-      <item value="Next, we will take the differences of the currents and given IDs and detach all of the entities that exist in the &quot;current&quot; array but are not in the array of the new IDs given to the method which will complete the sync." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="102" />
+        <entry key="CHINESE" value="103" />
         <entry key="ENGLISH" value="103" />
       </map>
     </option>
