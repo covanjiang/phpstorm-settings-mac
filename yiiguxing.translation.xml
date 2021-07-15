@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="742" />
     <option name="newTranslationDialogY" value="313" />
     <histories>
+      <item value="[EA] Variable 'detailUrl' is introduced as a method parameter and overridden here." />
       <item value="Access type for interface member must be omitted" />
       <item value="Get the number of browsers needed for a given callback." />
       <item value="Wait for the given text to be visible inside the given selector." />
@@ -54,11 +55,10 @@
       <item value="Now we'll try to update an existing pivot record with the attributes that were given to the method. If the model is actually updated we will add it to the list of updated pivot records so we return them back out to the consumer." />
       <item value="If the ID is not in the list of existing pivot IDs, we will insert a new pivot record, otherwise, we will just update this existing record on this joining table, so that the developers will easily update these records pain free." />
       <item value="Each existing model is detached, and non existing ones are attached." />
-      <item value="The class name of the custom pivot model to use for the relationship." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="103" />
+        <entry key="CHINESE" value="104" />
         <entry key="ENGLISH" value="103" />
       </map>
     </option>
