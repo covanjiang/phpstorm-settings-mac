@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="742" />
     <option name="newTranslationDialogY" value="313" />
     <histories>
+      <item value="Inject a snippet of JavaScript into the page for execution in the context of the currently selected frame. The executed script is assumed to be synchronous and the result of evaluating the script will be returned." />
       <item value="Get all window handles available to the current session." />
       <item value="Return an opaque handle to this window that uniquely identifies it within this driver instance." />
       <item value="Create a new top-level browsing context." />
@@ -54,12 +55,11 @@
       <item value="&quot;8.38.8.83&quot;, &quot;8.8.18.81&quot;, &quot;8.8.8.83&quot;, &quot;8.8.8.82&quot;, &quot;1.2.3.41&quot;, &quot;1.2.3.4&quot;, &quot;11.11.11.11&quot;, &quot;11.1.1.11&quot;, &quot;21.2.2.2&quot;, &quot;11.1.1.1&quot;, &quot;101.37.18.32&quot;, &quot;2600:3c00:0000:0000:0000:0000:0000:000064&quot;, &quot;2041:0db8:0100:0000:0000:0000:0000:000064&quot;, &quot;2001:0db8:001a:1111:0000:0000:0000:000064&quot;, &quot;40.77.0.016&quot;, &quot;66.249.0.016&quot;, &quot;21.31.0.016&quot;," />
       <item value="Get the count of the total records for the paginator." />
       <item value="Get a base query builder instance." />
-      <item value="Manually indicate that the paginator does have more pages." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="106" />
-        <entry key="ENGLISH" value="107" />
+        <entry key="CHINESE" value="107" />
+        <entry key="ENGLISH" value="108" />
       </map>
     </option>
   </component>
