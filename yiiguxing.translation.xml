@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="742" />
     <option name="newTranslationDialogY" value="313" />
     <histories>
+      <item value="An expectation for checking that an element is present on the DOM of a page. This does not necessarily mean that the element is visible." />
+      <item value="An expectation for checking that there is at least one element present on a web page." />
+      <item value="n expectation for checking that an element, known to be present on the DOM of a page, is visible. Visibility means that the element is not only displayed but also has a height and width that is greater than 0." />
       <item value="Is this element displayed or not? This method avoids the problem of having to parse an element's &quot;style&quot; attribute." />
       <item value="The basic 8 mechanisms supported by webdriver to locate a web element. ie. 'class name', 'css selector', 'id', 'name', 'link text', 'partial link text', 'tag name' and 'xpath'." />
       <item value="mechanism" />
@@ -52,14 +55,11 @@
       <item value="Iterate through all chunks" />
       <item value="Only the first string pool is processed." />
       <item value="Reads 4 bytes from the stream and returns little-endian ordered binary data as signed 32-bit integer." />
-      <item value="Reads 2 bytes from the stream and returns little-endian ordered binary data as signed 16-bit integer." />
-      <item value="LITTLE ENDIAN ORDER" />
-      <item value="Returns the current machine endian order." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="110" />
-        <entry key="ENGLISH" value="111" />
+        <entry key="CHINESE" value="113" />
+        <entry key="ENGLISH" value="114" />
       </map>
     </option>
   </component>
