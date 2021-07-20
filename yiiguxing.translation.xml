@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="742" />
     <option name="newTranslationDialogY" value="313" />
     <histories>
+      <item value="Is this element displayed or not? This method avoids the problem of having to parse an element's &quot;style&quot; attribute." />
+      <item value="The basic 8 mechanisms supported by webdriver to locate a web element. ie. 'class name', 'css selector', 'id', 'name', 'link text', 'partial link text', 'tag name' and 'xpath'." />
+      <item value="mechanism" />
       <item value="Inject a snippet of JavaScript into the page for execution in the context of the currently selected frame. The executed script is assumed to be synchronous and the result of evaluating the script will be returned." />
       <item value="Get all window handles available to the current session." />
       <item value="Return an opaque handle to this window that uniquely identifies it within this driver instance." />
@@ -52,18 +55,15 @@
       <item value="Reads 2 bytes from the stream and returns little-endian ordered binary data as signed 16-bit integer." />
       <item value="LITTLE ENDIAN ORDER" />
       <item value="Returns the current machine endian order." />
-      <item value="&quot;8.38.8.83&quot;, &quot;8.8.18.81&quot;, &quot;8.8.8.83&quot;, &quot;8.8.8.82&quot;, &quot;1.2.3.41&quot;, &quot;1.2.3.4&quot;, &quot;11.11.11.11&quot;, &quot;11.1.1.11&quot;, &quot;21.2.2.2&quot;, &quot;11.1.1.1&quot;, &quot;101.37.18.32&quot;, &quot;2600:3c00:0000:0000:0000:0000:0000:000064&quot;, &quot;2041:0db8:0100:0000:0000:0000:0000:000064&quot;, &quot;2001:0db8:001a:1111:0000:0000:0000:000064&quot;, &quot;40.77.0.016&quot;, &quot;66.249.0.016&quot;, &quot;21.31.0.016&quot;," />
-      <item value="Get the count of the total records for the paginator." />
-      <item value="Get a base query builder instance." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="107" />
-        <entry key="ENGLISH" value="108" />
+        <entry key="CHINESE" value="110" />
+        <entry key="ENGLISH" value="111" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1626245124372" />
+    <option name="lastTrimTime" value="1626752226019" />
   </component>
 </application>
