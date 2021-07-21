@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="742" />
     <option name="newTranslationDialogY" value="313" />
     <histories>
+      <item value="A small tool to keep track of the Github repositories you have in your organizations along with their pull requests, releases and more! Release candidates features You can create release candidates branches (with their corresponding Pull Request) You can create the Apps changelog based on the compilation of the libraries ones You can create the libraries version bumps (with their corresponding Pull Request) to get ready for the next sprint! CI features TravisCI and CircleCI integration to go directly to the build itself to monitor it. You can also trigger a TravisCi build and a CircleCi workflow right from the plugin! View branch CI build status Miscellaneous Included dependencies comparator to make a comparison of the Android dependencies changes between two branches" />
+      <item value="This plugin enables you to open the built-in Intellij-IDEA diff-viewer to compare validation- and output-files in the current project or module using a configurable keyboard shortcut." />
       <item value="You need a personal api token. To get the token please follow these steps: Log in to your Gitlab site Go to Settings &gt; Access Token and create a personal access token Go to your IDE preferences, Merge Request Integration &gt; Gitlab Fill data, then save and click refresh button of Merge Request Integration CE window" />
       <item value="The Key Promoter X helps you to learn essential shortcuts while you are working. When you use the mouse on a button inside the IDE, the Key Promoter X shows you the keyboard shortcut that you should have used instead. This provides an easy way to learn how to replace tedious mouse work with keyboard keys and helps to transition to a faster, mouse free development. The Key Promoter X tool window shows you a hit-list of the mouse actions you use the most and directly provides you with the shortcut you can use instead. For buttons that don't have a shortcut, the Key Promoter X prompts you with the possibility to directly create one" />
       <item value="Integrates support for Symfony components in Drupal8 with Symfony Plugin" />
@@ -53,12 +55,10 @@
       <item value="If an attribute is listed as a &quot;date&quot;, we'll convert it from a DateTime instance into a form proper for storage on the database tables using the connection grammar's date format. We will auto set the values." />
       <item value="This file is where you may define all of your Closure based console | commands. Each Closure is bound to a command instance allowing a | simple approach to interacting with each command's IO methods." />
       <item value="Here you may register all of the event broadcasting channels that your | application supports. The given channel authorization callbacks are | used to check if an authenticated user can listen to the channel." />
-      <item value="get SimleXmlElement created from AndroidManifest.xml" />
-      <item value="the anount of bits to shift back and forth, so that we get the correct signage" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="116" />
+        <entry key="CHINESE" value="118" />
         <entry key="ENGLISH" value="114" />
       </map>
     </option>
