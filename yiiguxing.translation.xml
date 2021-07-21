@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="742" />
     <option name="newTranslationDialogY" value="313" />
     <histories>
+      <item value="You need a personal api token. To get the token please follow these steps: Log in to your Gitlab site Go to Settings &gt; Access Token and create a personal access token Go to your IDE preferences, Merge Request Integration &gt; Gitlab Fill data, then save and click refresh button of Merge Request Integration CE window" />
+      <item value="The Key Promoter X helps you to learn essential shortcuts while you are working. When you use the mouse on a button inside the IDE, the Key Promoter X shows you the keyboard shortcut that you should have used instead. This provides an easy way to learn how to replace tedious mouse work with keyboard keys and helps to transition to a faster, mouse free development. The Key Promoter X tool window shows you a hit-list of the mouse actions you use the most and directly provides you with the shortcut you can use instead. For buttons that don't have a shortcut, the Key Promoter X prompts you with the possibility to directly create one" />
+      <item value="Integrates support for Symfony components in Drupal8 with Symfony Plugin" />
       <item value="An expectation for checking that an element is present on the DOM of a page. This does not necessarily mean that the element is visible." />
       <item value="An expectation for checking that there is at least one element present on a web page." />
       <item value="n expectation for checking that an element, known to be present on the DOM of a page, is visible. Visibility means that the element is not only displayed but also has a height and width that is greater than 0." />
@@ -52,13 +55,10 @@
       <item value="Here you may register all of the event broadcasting channels that your | application supports. The given channel authorization callbacks are | used to check if an authenticated user can listen to the channel." />
       <item value="get SimleXmlElement created from AndroidManifest.xml" />
       <item value="the anount of bits to shift back and forth, so that we get the correct signage" />
-      <item value="Iterate through all chunks" />
-      <item value="Only the first string pool is processed." />
-      <item value="Reads 4 bytes from the stream and returns little-endian ordered binary data as signed 32-bit integer." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="113" />
+        <entry key="CHINESE" value="116" />
         <entry key="ENGLISH" value="114" />
       </map>
     </option>
