@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="742" />
     <option name="newTranslationDialogY" value="313" />
     <histories>
+      <item value="signature" />
       <item value="First we need to ensure that the given name is not a reserved word within the PHP language and that the class name will actually be valid. If it is not valid we can error now and prevent from polluting the filesystem using invalid files." />
       <item value="A small tool to keep track of the Github repositories you have in your organizations along with their pull requests, releases and more! Release candidates features You can create release candidates branches (with their corresponding Pull Request) You can create the Apps changelog based on the compilation of the libraries ones You can create the libraries version bumps (with their corresponding Pull Request) to get ready for the next sprint! CI features TravisCI and CircleCI integration to go directly to the build itself to monitor it. You can also trigger a TravisCi build and a CircleCi workflow right from the plugin! View branch CI build status Miscellaneous Included dependencies comparator to make a comparison of the Android dependencies changes between two branches" />
       <item value="This plugin enables you to open the built-in Intellij-IDEA diff-viewer to compare validation- and output-files in the current project or module using a configurable keyboard shortcut." />
@@ -54,12 +55,11 @@
       <item value="This value is the name of dcat-admin, This setting is displayed on the | login page." />
       <item value="If this attribute contains a JSON -&gt;, we'll set the proper value in the attribute's underlying array. This takes care of properly nesting an attribute in the array's value in the case of deeply nested items." />
       <item value="If an attribute is listed as a &quot;date&quot;, we'll convert it from a DateTime instance into a form proper for storage on the database tables using the connection grammar's date format. We will auto set the values." />
-      <item value="This file is where you may define all of your Closure based console | commands. Each Closure is bound to a command instance allowing a | simple approach to interacting with each command's IO methods." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="118" />
-        <entry key="ENGLISH" value="115" />
+        <entry key="ENGLISH" value="116" />
       </map>
     </option>
   </component>
