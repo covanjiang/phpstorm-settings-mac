@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="742" />
     <option name="newTranslationDialogY" value="313" />
     <histories>
+      <item value="Validation Failed" />
       <item value="chrome driver host" />
       <item value="Indicates that the browser should be resized to fit the entire &quot;body&quot; before screenshotting failures." />
       <item value="Makes no sense, because it's always false according to resolved type. Ensure the parameter is not reused." />
@@ -54,12 +55,11 @@
       <item value="Determine if the tests are running within Laravel Sail." />
       <item value="Determine whether the Dusk command has disabled headless mode." />
       <item value="Authentication settings for all admin pages. Include an authentication | guard and a user provider setting of authentication driver. | | You can specify a controller for `login` `logout` and other auth routes." />
-      <item value="The installation directory of the controller and routing configuration | files of the administration page. The default is `appAdmin`, which must | be set before running `artisan admin::install` to take effect." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="119" />
-        <entry key="ENGLISH" value="118" />
+        <entry key="ENGLISH" value="119" />
       </map>
     </option>
   </component>
