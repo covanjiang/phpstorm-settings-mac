@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="742" />
     <option name="newTranslationDialogY" value="313" />
     <histories>
+      <item value="Deleted or Gone" />
       <item value="Validation Failed" />
       <item value="chrome driver host" />
       <item value="Indicates that the browser should be resized to fit the entire &quot;body&quot; before screenshotting failures." />
@@ -54,7 +55,6 @@
       <item value="Return the default user to authenticate." />
       <item value="Determine if the tests are running within Laravel Sail." />
       <item value="Determine whether the Dusk command has disabled headless mode." />
-      <item value="Authentication settings for all admin pages. Include an authentication | guard and a user provider setting of authentication driver. | | You can specify a controller for `login` `logout` and other auth routes." />
     </histories>
     <option name="languageScores">
       <map>
