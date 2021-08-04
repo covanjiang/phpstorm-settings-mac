@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="742" />
     <option name="newTranslationDialogY" value="313" />
     <histories>
+      <item value="u" />
       <item value="The following language lines are used to swap our attribute placeholder | with something more reader friendly such as &quot;E-Mail Address&quot; instead | of &quot;email&quot;. This simply helps us make our message more expressive." />
       <item value="Here you may specify custom validation messages for attributes using the | convention &quot;attribute.rule&quot; to name the lines. This makes it quick to | specify a specific custom language line for a given attribute rule." />
       <item value="Deleted or Gone" />
@@ -54,12 +55,12 @@
       <item value="Store the console output for the given browsers." />
       <item value="If the URL does not start with http or https, then we will prepend the base URL onto the URL and navigate to the URL. This will actually navigate to the URL in the browser. Then we will be ready to make assertions, etc." />
       <item value="Determine the application's base URL." />
-      <item value="Return the default user to authenticate." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="120" />
+        <entry key="CHINESE" value="121" />
         <entry key="ENGLISH" value="121" />
+        <entry key="BOSNIAN" value="1" />
       </map>
     </option>
   </component>
