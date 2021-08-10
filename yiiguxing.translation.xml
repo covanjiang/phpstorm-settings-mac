@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="742" />
     <option name="newTranslationDialogY" value="313" />
     <histories>
+      <item value="Page" />
       <item value="@param bool normalizeWhitespace Whether whitespaces should be trimmed and normalized to single spaces" />
       <item value="@param string|null default When not null: the value to return when the current node is empty" />
       <item value="Returns the text of the first node of the list. Pass true as the second argument to normalize whitespaces." />
@@ -54,17 +55,16 @@
       <item value="tarts the process and returns after writing the input to STDIN. This method blocks until all STDIN data is sent to the process then it returns while the process runs in the background. The termination of the process can be awaited with wait(). The callback receives the type of output (out or err) and some bytes from the output in real-time while writing the standard input to the process. It allows to have feedback from the independent process during execution." />
       <item value="Get the callback which resolves the default user to authenticate." />
       <item value="Capture failure screenshots for each browser." />
-      <item value="Store the source code for the given browsers (if necessary)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="124" />
-        <entry key="ENGLISH" value="125" />
+        <entry key="CHINESE" value="125" />
+        <entry key="ENGLISH" value="126" />
         <entry key="BOSNIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1627975576143" />
+    <option name="lastTrimTime" value="1628564043100" />
   </component>
 </application>
