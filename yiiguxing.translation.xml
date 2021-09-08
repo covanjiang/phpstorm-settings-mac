@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="742" />
     <option name="newTranslationDialogY" value="313" />
     <histories>
+      <item value="Obfuscates URI if there is a username and a password present" />
       <item value="Lack of first_source field values!" />
       <item value="Construct the RemoteWebDriver by a desired capabilities. @param string selenium_server_url The url of the remote Selenium WebDriver server @param DesiredCapabilities|array desired_capabilities The desired capabilities @param int|null connection_timeout_in_ms Set timeout for the connect phase to remote Selenium WebDriver server @param int|null request_timeout_in_ms Set the maximum time of a request to remote Selenium WebDriver server @param string|null http_proxy The proxy to tunnel requests to the remote Selenium WebDriver through @param int|null http_proxy_port The proxy port to tunnel requests to the remote Selenium WebDriver through @param DesiredCapabilities required_capabilities The required capabilities @return static" />
       <item value="Redundant character escape '\{' in RegExp" />
@@ -54,17 +55,16 @@
       <item value="Construct the RemoteWebDriver by a desired capabilities." />
       <item value="To be removed in the future. Executor should be passed in the constructor." />
       <item value="Performs a check between the timeout definition and the time the process started. In case you run a background process (with the start method), you should trigger this method regularly to ensure the process timeout @throws ProcessTimedOutException In case the timeout was reached" />
-      <item value="Updates the status of the process, reads pipes." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="127" />
-        <entry key="ENGLISH" value="128" />
+        <entry key="CHINESE" value="128" />
+        <entry key="ENGLISH" value="129" />
         <entry key="BOSNIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1629449641276" />
+    <option name="lastTrimTime" value="1631086678833" />
   </component>
 </application>
