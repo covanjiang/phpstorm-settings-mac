@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="742" />
     <option name="newTranslationDialogY" value="313" />
     <histories>
+      <item value="Interactive viewer for '.log' files." />
       <item value="Obfuscates URI if there is a username and a password present" />
       <item value="Lack of first_source field values!" />
       <item value="Construct the RemoteWebDriver by a desired capabilities. @param string selenium_server_url The url of the remote Selenium WebDriver server @param DesiredCapabilities|array desired_capabilities The desired capabilities @param int|null connection_timeout_in_ms Set timeout for the connect phase to remote Selenium WebDriver server @param int|null request_timeout_in_ms Set the maximum time of a request to remote Selenium WebDriver server @param string|null http_proxy The proxy to tunnel requests to the remote Selenium WebDriver through @param int|null http_proxy_port The proxy port to tunnel requests to the remote Selenium WebDriver through @param DesiredCapabilities required_capabilities The required capabilities @return static" />
@@ -54,11 +55,10 @@
       <item value="Create instance based on response to NEW_SESSION command. Also detect W3COSS dialect and setup the driverexecutor accordingly." />
       <item value="Construct the RemoteWebDriver by a desired capabilities." />
       <item value="To be removed in the future. Executor should be passed in the constructor." />
-      <item value="Performs a check between the timeout definition and the time the process started. In case you run a background process (with the start method), you should trigger this method regularly to ensure the process timeout @throws ProcessTimedOutException In case the timeout was reached" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="128" />
+        <entry key="CHINESE" value="129" />
         <entry key="ENGLISH" value="129" />
         <entry key="BOSNIAN" value="1" />
       </map>
