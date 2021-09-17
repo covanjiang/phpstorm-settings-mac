@@ -2,7 +2,9 @@
   <action id="ActivateDatabaseToolWindow">
     <keyboard-shortcut first-keystroke="alt 2" />
   </action>
-  <action id="ActivateFindToolWindow" />
+  <action id="ActivateFindToolWindow">
+    <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
   <action id="CloseActiveTab">
     <keyboard-shortcut first-keystroke="alt x" />
   </action>
