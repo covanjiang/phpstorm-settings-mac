@@ -4,7 +4,7 @@
     <property name="created">2021-08-10T10:39:11</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.2.0.0</property>
-    <property name="modified">2021-08-11T11:40:49</property>
+    <property name="modified">2021-09-23T10:34:42</property>
     <property name="originalScheme">Monokai Pro (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.3" />
@@ -32,7 +32,7 @@
     <option name="DIAGRAM_NOTE_BACKGROUND" value="2d2a2e" />
     <option name="DIAGRAM_NOTE_BORDER" value="fcfcfa" />
     <option name="DIAGRAM_REALIZATION_EDGE" value="ff6188" />
-    <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2a30" />
+    <option name="DIFF_SEPARATORS_BACKGROUND" value="627982" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="1b262b" />
     <option name="DOCUMENTATION_COLOR" value="403e41" />
     <option name="DOC_COMMENT_GUIDE" value="5b595c" />
@@ -69,10 +69,10 @@
     <option name="METHOD_SEPARATORS_COLOR" value="59575a" />
     <option name="MODIFIED_LINES_COLOR" value="fc9867" />
     <option name="MODIFIED_TAB_ICON" value="ffd866" />
-    <option name="MT_FILESTATUS_ADDED" value="a9dc76" />
-    <option name="MT_FILESTATUS_COPIED" value="a9dc76" />
+    <option name="MT_FILESTATUS_ADDED" value="5dad0d" />
+    <option name="MT_FILESTATUS_COPIED" value="4236d9" />
     <option name="MT_FILESTATUS_DELETED" value="727072" />
-    <option name="MT_FILESTATUS_HIJACKED" value="ffd866" />
+    <option name="MT_FILESTATUS_HIJACKED" value="fabb00" />
     <option name="MT_FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="727072" />
     <option name="MT_FILESTATUS_IDEA_FILESTATUS_IGNORED" value="ab7967" />
     <option name="MT_FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="fc9867" />
@@ -87,7 +87,7 @@
     <option name="MT_FILESTATUS_SUPPRESSED" value="727072" />
     <option name="MT_FILESTATUS_SWITCHED" value="ab9df2" />
     <option name="MT_FILESTATUS_UNKNOWN" value="f59762" />
-    <option name="MT_FILESTATUS_addedOutside" value="ffd866" />
+    <option name="MT_FILESTATUS_addedOutside" value="d79b00" />
     <option name="MT_FILESTATUS_changelistConflict" value="f65f87" />
     <option name="MT_FILESTATUS_modifiedOutside" value="ab9df2" />
     <option name="MT_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
@@ -749,26 +749,26 @@
     </option>
     <option name="DIFF_CONFLICT">
       <value>
-        <option name="BACKGROUND" value="4b1515" />
-        <option name="ERROR_STRIPE_COLOR" value="b03435" />
+        <option name="BACKGROUND" value="a00606" />
+        <option name="ERROR_STRIPE_COLOR" value="d71519" />
       </value>
     </option>
     <option name="DIFF_DELETED">
       <value>
-        <option name="BACKGROUND" value="41454b" />
-        <option name="ERROR_STRIPE_COLOR" value="656e76" />
+        <option name="BACKGROUND" value="575656" />
+        <option name="ERROR_STRIPE_COLOR" value="575656" />
       </value>
     </option>
     <option name="DIFF_INSERTED">
       <value>
-        <option name="BACKGROUND" value="264b33" />
-        <option name="ERROR_STRIPE_COLOR" value="447152" />
+        <option name="BACKGROUND" value="145f32" />
+        <option name="ERROR_STRIPE_COLOR" value="3cb160" />
       </value>
     </option>
     <option name="DIFF_MODIFIED">
       <value>
-        <option name="BACKGROUND" value="12404b" />
-        <option name="ERROR_STRIPE_COLOR" value="43698d" />
+        <option name="BACKGROUND" value="136979" />
+        <option name="ERROR_STRIPE_COLOR" value="357abb" />
       </value>
     </option>
     <option name="DUPLICATE_FROM_SERVER">
