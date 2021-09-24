@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="742" />
     <option name="newTranslationDialogY" value="313" />
     <histories>
+      <item value="New value type (string) is not matching the resolved parameter type and might introduce types-related false-positives." />
       <item value="Run a Closure when the facade has been resolved." />
       <item value="Interactive viewer for '.log' files." />
       <item value="Obfuscates URI if there is a username and a password present" />
@@ -54,11 +55,10 @@
       <item value="Returns a list of the currently active sessions." />
       <item value="Capabilities" />
       <item value="Create instance based on response to NEW_SESSION command. Also detect W3COSS dialect and setup the driverexecutor accordingly." />
-      <item value="Construct the RemoteWebDriver by a desired capabilities." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="129" />
+        <entry key="CHINESE" value="130" />
         <entry key="ENGLISH" value="130" />
         <entry key="BOSNIAN" value="1" />
       </map>
