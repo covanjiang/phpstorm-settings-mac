@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="742" />
     <option name="newTranslationDialogY" value="313" />
     <histories>
+      <item value="Use reflection to inspect the code, based on IlluminateSupportSerializableClosure.php" />
       <item value="New value type (string) is not matching the resolved parameter type and might introduce types-related false-positives." />
       <item value="Run a Closure when the facade has been resolved." />
       <item value="Interactive viewer for '.log' files." />
@@ -54,7 +55,6 @@
       <item value="[Experimental] Construct the RemoteWebDriver by an existing session. This constructor can boost the performance a lot by reusing the same browser for the whole test suite. You cannot pass the desired capabilities because the session was created before." />
       <item value="Returns a list of the currently active sessions." />
       <item value="Capabilities" />
-      <item value="Create instance based on response to NEW_SESSION command. Also detect W3COSS dialect and setup the driverexecutor accordingly." />
     </histories>
     <option name="languageScores">
       <map>
