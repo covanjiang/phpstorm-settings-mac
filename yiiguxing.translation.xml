@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="742" />
     <option name="newTranslationDialogY" value="313" />
     <histories>
+      <item value="Build model dictionary keyed by the relation's foreign key." />
       <item value="Returns a timestamp rounded with the given precision (6 by default)." />
       <item value="Use reflection to inspect the code, based on IlluminateSupportSerializableClosure.php" />
       <item value="New value type (string) is not matching the resolved parameter type and might introduce types-related false-positives." />
@@ -54,7 +55,6 @@
       <item value="Wait for the given text to be visible inside the given selector." />
       <item value="perhaps we are dealing with dead code here" />
       <item value="[Experimental] Construct the RemoteWebDriver by an existing session. This constructor can boost the performance a lot by reusing the same browser for the whole test suite. You cannot pass the desired capabilities because the session was created before." />
-      <item value="Returns a list of the currently active sessions." />
     </histories>
     <option name="languageScores">
       <map>
