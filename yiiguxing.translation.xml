@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="742" />
     <option name="newTranslationDialogY" value="313" />
     <histories>
+      <item value="Match the eagerly loaded results to their many parents." />
       <item value="Build model dictionary keyed by the relation's foreign key." />
       <item value="Returns a timestamp rounded with the given precision (6 by default)." />
       <item value="Use reflection to inspect the code, based on IlluminateSupportSerializableClosure.php" />
@@ -54,17 +55,25 @@
       <item value="Get the number of browsers needed for a given callback." />
       <item value="Wait for the given text to be visible inside the given selector." />
       <item value="perhaps we are dealing with dead code here" />
-      <item value="[Experimental] Construct the RemoteWebDriver by an existing session. This constructor can boost the performance a lot by reusing the same browser for the whole test suite. You cannot pass the desired capabilities because the session was created before." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="130" />
-        <entry key="ENGLISH" value="130" />
+        <entry key="CHINESE" value="131" />
+        <entry key="ENGLISH" value="131" />
         <entry key="BOSNIAN" value="1" />
+        <entry key="ESPERANTO" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1631086678833" />
+    <option name="lastTrimTime" value="1632967420810" />
+  </component>
+  <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="primaryLanguage" value="ESPERANTO" />
+        <option name="useTranslateGoogleCom" value="true" />
+      </google-translate>
+    </option>
   </component>
 </application>
