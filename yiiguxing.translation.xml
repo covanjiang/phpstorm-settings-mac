@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="742" />
     <option name="newTranslationDialogY" value="313" />
     <histories>
+      <item value="&#10;      Determine if the request has a URI that should pass through CSRF verification.&#10;     &#10;      @param  \Illuminate\Http\Request  request&#10;      @return bool&#10;     " />
+      <item value="The URIs that should be excluded from CSRF verification." />
       <item value="Indicates whether the XSRF-TOKEN cookie should be set on the response." />
       <item value="If we're touching the parent model, touch." />
       <item value="Match the eagerly loaded results to their many parents." />
@@ -53,13 +55,11 @@
       <item value="Calls an anonymous function on each node of the list. The anonymous function receives the position and the node wrapped in a Crawler instance as arguments." />
       <item value="Sets an experimental option which has not exposed officially." />
       <item value="[EA] Variable 'detailUrl' is introduced as a method parameter and overridden here." />
-      <item value="Access type for interface member must be omitted" />
-      <item value="Get the number of browsers needed for a given callback." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="133" />
-        <entry key="ENGLISH" value="133" />
+        <entry key="CHINESE" value="134" />
+        <entry key="ENGLISH" value="135" />
         <entry key="BOSNIAN" value="1" />
         <entry key="ESPERANTO" value="3" />
       </map>
