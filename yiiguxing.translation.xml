@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="742" />
     <option name="newTranslationDialogY" value="313" />
     <histories>
+      <item value="If we're touching the parent model, touch." />
       <item value="Match the eagerly loaded results to their many parents." />
       <item value="Build model dictionary keyed by the relation's foreign key." />
       <item value="Returns a timestamp rounded with the given precision (6 by default)." />
@@ -54,25 +55,23 @@
       <item value="Access type for interface member must be omitted" />
       <item value="Get the number of browsers needed for a given callback." />
       <item value="Wait for the given text to be visible inside the given selector." />
-      <item value="perhaps we are dealing with dead code here" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="131" />
-        <entry key="ENGLISH" value="131" />
+        <entry key="CHINESE" value="132" />
+        <entry key="ENGLISH" value="132" />
         <entry key="BOSNIAN" value="1" />
-        <entry key="ESPERANTO" value="1" />
+        <entry key="ESPERANTO" value="2" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1632967420810" />
+    <option name="lastTrimTime" value="1635386965559" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
       <google-translate>
         <option name="primaryLanguage" value="ESPERANTO" />
-        <option name="useTranslateGoogleCom" value="true" />
       </google-translate>
     </option>
   </component>
