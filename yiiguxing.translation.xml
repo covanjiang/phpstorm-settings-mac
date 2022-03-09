@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="742" />
     <option name="newTranslationDialogY" value="313" />
     <histories>
+      <item value="Partial" />
+      <item value="Prompt" />
+      <item value="bread Crumbs" />
       <item value="Redundant" />
       <item value="Scalar" />
       <item value="Criteria" />
@@ -52,14 +55,11 @@
       <item value="The basic 8 mechanisms supported by webdriver to locate a web element. ie. 'class name', 'css selector', 'id', 'name', 'link text', 'partial link text', 'tag name' and 'xpath'." />
       <item value="mechanism" />
       <item value="Inject a snippet of JavaScript into the page for execution in the context of the currently selected frame. The executed script is assumed to be synchronous and the result of evaluating the script will be returned." />
-      <item value="Get all window handles available to the current session." />
-      <item value="Return an opaque handle to this window that uniquely identifies it within this driver instance." />
-      <item value="Create a new top-level browsing context." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="136" />
-        <entry key="ENGLISH" value="137" />
+        <entry key="CHINESE" value="139" />
+        <entry key="ENGLISH" value="140" />
         <entry key="BOSNIAN" value="1" />
         <entry key="ESPERANTO" value="3" />
       </map>
