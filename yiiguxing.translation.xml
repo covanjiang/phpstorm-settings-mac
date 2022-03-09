@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="742" />
     <option name="newTranslationDialogY" value="313" />
     <histories>
+      <item value="settlement method" />
       <item value="Partial" />
       <item value="Prompt" />
       <item value="bread Crumbs" />
@@ -54,12 +55,11 @@
       <item value="Is this element displayed or not? This method avoids the problem of having to parse an element's &quot;style&quot; attribute." />
       <item value="The basic 8 mechanisms supported by webdriver to locate a web element. ie. 'class name', 'css selector', 'id', 'name', 'link text', 'partial link text', 'tag name' and 'xpath'." />
       <item value="mechanism" />
-      <item value="Inject a snippet of JavaScript into the page for execution in the context of the currently selected frame. The executed script is assumed to be synchronous and the result of evaluating the script will be returned." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="139" />
-        <entry key="ENGLISH" value="140" />
+        <entry key="CHINESE" value="140" />
+        <entry key="ENGLISH" value="141" />
         <entry key="BOSNIAN" value="1" />
         <entry key="ESPERANTO" value="3" />
       </map>
