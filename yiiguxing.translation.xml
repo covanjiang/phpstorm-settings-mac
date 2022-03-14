@@ -2,9 +2,11 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="444" />
     <option name="newTranslationDialogWidth" value="750" />
-    <option name="newTranslationDialogX" value="742" />
-    <option name="newTranslationDialogY" value="313" />
+    <option name="newTranslationDialogX" value="631" />
+    <option name="newTranslationDialogY" value="322" />
     <histories>
+      <item value="[EA] '(float) sprintf('%.2f', duty_income)' can be used instead (reduces cognitive load, up to 6x times faster in PHP 5.x).&#10;" />
+      <item value="[EA] '(float) sprintf('%.2f', duty_income)' can be used instead (reduces cognitive load, up to 6x times faster in PHP 5.x)." />
       <item value="Yesterday" />
       <item value="Yestoday" />
       <item value="settlement method" />
@@ -53,12 +55,10 @@
       <item value="Integrates support for Symfony components in Drupal8 with Symfony Plugin" />
       <item value="An expectation for checking that an element is present on the DOM of a page. This does not necessarily mean that the element is visible." />
       <item value="An expectation for checking that there is at least one element present on a web page." />
-      <item value="n expectation for checking that an element, known to be present on the DOM of a page, is visible. Visibility means that the element is not only displayed but also has a height and width that is greater than 0." />
-      <item value="Is this element displayed or not? This method avoids the problem of having to parse an element's &quot;style&quot; attribute." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="141" />
+        <entry key="CHINESE" value="142" />
         <entry key="ENGLISH" value="142" />
         <entry key="BOSNIAN" value="1" />
         <entry key="ESPERANTO" value="3" />
