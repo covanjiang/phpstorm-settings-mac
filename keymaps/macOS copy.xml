@@ -18,6 +18,9 @@
   <action id="ToggleDistractionFreeMode">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
+  <action id="ToggleZenMode">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
   <action id="Tool_External Tools_php-cs-fixer">
     <keyboard-shortcut first-keystroke="ctrl meta s" />
   </action>
