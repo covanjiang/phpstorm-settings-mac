@@ -2,9 +2,10 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="444" />
     <option name="newTranslationDialogWidth" value="750" />
-    <option name="newTranslationDialogX" value="631" />
-    <option name="newTranslationDialogY" value="322" />
+    <option name="newTranslationDialogX" value="320" />
+    <option name="newTranslationDialogY" value="462" />
     <histories>
+      <item value="[EA] New value type (bool) is not matching the resolved parameter type and might introduce types-related false-positives." />
       <item value="Target Account Campaign Relation" />
       <item value="Campaign" />
       <item value="divisor" />
@@ -54,11 +55,10 @@
       <item value="spider es HOST" />
       <item value="signature" />
       <item value="First we need to ensure that the given name is not a reserved word within the PHP language and that the class name will actually be valid. If it is not valid we can error now and prevent from polluting the filesystem using invalid files." />
-      <item value="A small tool to keep track of the Github repositories you have in your organizations along with their pull requests, releases and more! Release candidates features You can create release candidates branches (with their corresponding Pull Request) You can create the Apps changelog based on the compilation of the libraries ones You can create the libraries version bumps (with their corresponding Pull Request) to get ready for the next sprint! CI features TravisCI and CircleCI integration to go directly to the build itself to monitor it. You can also trigger a TravisCi build and a CircleCi workflow right from the plugin! View branch CI build status Miscellaneous Included dependencies comparator to make a comparison of the Android dependencies changes between two branches" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="146" />
+        <entry key="CHINESE" value="147" />
         <entry key="ENGLISH" value="147" />
         <entry key="BOSNIAN" value="1" />
         <entry key="ESPERANTO" value="3" />
