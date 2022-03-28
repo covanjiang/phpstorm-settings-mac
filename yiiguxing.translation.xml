@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="631" />
     <option name="newTranslationDialogY" value="322" />
     <histories>
+      <item value="Target Account Campaign Relation" />
+      <item value="Campaign" />
       <item value="divisor" />
       <item value="Returns a value indicating whether the named attribute has been changed." />
       <item value="Currency" />
@@ -53,13 +55,11 @@
       <item value="signature" />
       <item value="First we need to ensure that the given name is not a reserved word within the PHP language and that the class name will actually be valid. If it is not valid we can error now and prevent from polluting the filesystem using invalid files." />
       <item value="A small tool to keep track of the Github repositories you have in your organizations along with their pull requests, releases and more! Release candidates features You can create release candidates branches (with their corresponding Pull Request) You can create the Apps changelog based on the compilation of the libraries ones You can create the libraries version bumps (with their corresponding Pull Request) to get ready for the next sprint! CI features TravisCI and CircleCI integration to go directly to the build itself to monitor it. You can also trigger a TravisCi build and a CircleCi workflow right from the plugin! View branch CI build status Miscellaneous Included dependencies comparator to make a comparison of the Android dependencies changes between two branches" />
-      <item value="This plugin enables you to open the built-in Intellij-IDEA diff-viewer to compare validation- and output-files in the current project or module using a configurable keyboard shortcut." />
-      <item value="You need a personal api token. To get the token please follow these steps: Log in to your Gitlab site Go to Settings &gt; Access Token and create a personal access token Go to your IDE preferences, Merge Request Integration &gt; Gitlab Fill data, then save and click refresh button of Merge Request Integration CE window" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="144" />
-        <entry key="ENGLISH" value="145" />
+        <entry key="CHINESE" value="146" />
+        <entry key="ENGLISH" value="147" />
         <entry key="BOSNIAN" value="1" />
         <entry key="ESPERANTO" value="3" />
       </map>
