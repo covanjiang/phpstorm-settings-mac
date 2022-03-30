@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="320" />
     <option name="newTranslationDialogY" value="462" />
     <histories>
+      <item value="modality" />
+      <item value="delivery" />
       <item value="[EA] New value type (bool) is not matching the resolved parameter type and might introduce types-related false-positives." />
       <item value="Target Account Campaign Relation" />
       <item value="Campaign" />
@@ -53,20 +55,18 @@
       <item value="Makes no sense, because it's always false according to resolved type. Ensure the parameter is not reused." />
       <item value="spider Es INDEX" />
       <item value="spider es HOST" />
-      <item value="signature" />
-      <item value="First we need to ensure that the given name is not a reserved word within the PHP language and that the class name will actually be valid. If it is not valid we can error now and prevent from polluting the filesystem using invalid files." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="147" />
-        <entry key="ENGLISH" value="147" />
+        <entry key="CHINESE" value="148" />
+        <entry key="ENGLISH" value="149" />
         <entry key="BOSNIAN" value="1" />
         <entry key="ESPERANTO" value="3" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1648175301972" />
+    <option name="lastTrimTime" value="1648609673641" />
   </component>
   <component name="Settings">
     <option name="keepFormat" value="true" />
