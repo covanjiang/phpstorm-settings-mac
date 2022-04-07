@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="fileupload" type="AUTO_DETECTED" />
+      <mapping pattern=".gittgonre" type="PLAIN_TEXT" />
       <mapping ext="stub" type="PLAIN_TEXT" />
       <mapping ext="fasta" type="PLAIN_TEXT" />
       <mapping ext="srt" type="PLAIN_TEXT" />
