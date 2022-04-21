@@ -18,6 +18,9 @@
   <action id="ToggleDistractionFreeMode">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
+  <action id="TogglePresentationMode">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
   <action id="ToggleZenMode">
     <keyboard-shortcut first-keystroke="alt f" />
   </action>
