@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="320" />
     <option name="newTranslationDialogY" value="462" />
     <histories>
+      <item value="You can use both an array or a comma-separated list of proxy addresses,&#10;    | as well as specifying whole subnets. Here are a few examples:" />
+      <item value=" If your server is behind a reverse proxy, you must whitelist the proxy&#10;    | IP addresses from which CodeIgniter should trust headers such as&#10;    | HTTP_X_FORWARDED_FOR and HTTP_CLIENT_IP in order to properly identify&#10;    | the visitor's IP address." />
       <item value="Assemble" />
       <item value="Media CRM split group data wrong" />
       <item value="modality" />
@@ -53,13 +55,11 @@
       <item value="Deleted or Gone" />
       <item value="Validation Failed" />
       <item value="chrome driver host" />
-      <item value="Indicates that the browser should be resized to fit the entire &quot;body&quot; before screenshotting failures." />
-      <item value="Makes no sense, because it's always false according to resolved type. Ensure the parameter is not reused." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="149" />
-        <entry key="ENGLISH" value="150" />
+        <entry key="CHINESE" value="151" />
+        <entry key="ENGLISH" value="152" />
         <entry key="BOSNIAN" value="1" />
         <entry key="ESPERANTO" value="3" />
       </map>
