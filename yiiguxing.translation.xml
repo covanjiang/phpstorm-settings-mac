@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="320" />
     <option name="newTranslationDialogY" value="462" />
     <histories>
+      <item value="Common birthday" />
       <item value="You can use both an array or a comma-separated list of proxy addresses,&#10;    | as well as specifying whole subnets. Here are a few examples:" />
       <item value=" If your server is behind a reverse proxy, you must whitelist the proxy&#10;    | IP addresses from which CodeIgniter should trust headers such as&#10;    | HTTP_X_FORWARDED_FOR and HTTP_CLIENT_IP in order to properly identify&#10;    | the visitor's IP address." />
       <item value="Assemble" />
@@ -54,7 +55,6 @@
       <item value="Here you may specify custom validation messages for attributes using the | convention &quot;attribute.rule&quot; to name the lines. This makes it quick to | specify a specific custom language line for a given attribute rule." />
       <item value="Deleted or Gone" />
       <item value="Validation Failed" />
-      <item value="chrome driver host" />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,7 +66,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1652359693608" />
+    <option name="lastTrimTime" value="1652863243629" />
   </component>
   <component name="Settings">
     <option name="keepFormat" value="true" />
