@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="320" />
     <option name="newTranslationDialogY" value="462" />
     <histories>
+      <item value="The number of child processes to be created when pm is set to 'static' and the&#10;; maximum number of child processes when pm is set to 'dynamic' or 'ondemand'.&#10;; This value sets the limit on the number of simultaneous requests that will be&#10;; served. Equivalent to the ApacheMaxClients directive with mpm_prefork.&#10;; Equivalent to the PHP_FCGI_CHILDREN environment variable in the original PHP&#10;; CGI. The below defaults are based on a server without much resources. Don't&#10;; forget to tweak pm. to fit your needs.&#10;; Note: Used when pm is set to 'static', 'dynamic' or 'ondemand'&#10;; Note: This value is mandatory." />
       <item value="Common birthday" />
       <item value="You can use both an array or a comma-separated list of proxy addresses,&#10;    | as well as specifying whole subnets. Here are a few examples:" />
       <item value=" If your server is behind a reverse proxy, you must whitelist the proxy&#10;    | IP addresses from which CodeIgniter should trust headers such as&#10;    | HTTP_X_FORWARDED_FOR and HTTP_CLIENT_IP in order to properly identify&#10;    | the visitor's IP address." />
@@ -54,19 +55,18 @@
       <item value="The following language lines are used to swap our attribute placeholder | with something more reader friendly such as &quot;E-Mail Address&quot; instead | of &quot;email&quot;. This simply helps us make our message more expressive." />
       <item value="Here you may specify custom validation messages for attributes using the | convention &quot;attribute.rule&quot; to name the lines. This makes it quick to | specify a specific custom language line for a given attribute rule." />
       <item value="Deleted or Gone" />
-      <item value="Validation Failed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="151" />
-        <entry key="ENGLISH" value="152" />
+        <entry key="CHINESE" value="152" />
+        <entry key="ENGLISH" value="153" />
         <entry key="BOSNIAN" value="1" />
         <entry key="ESPERANTO" value="3" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1652863243629" />
+    <option name="lastTrimTime" value="1653474577760" />
   </component>
   <component name="Settings">
     <option name="keepFormat" value="true" />
