@@ -5,6 +5,12 @@
     <option name="newTranslationDialogX" value="320" />
     <option name="newTranslationDialogY" value="462" />
     <histories>
+      <item value="uncomment to avoid processing of calls to non-existing static files by Yii" />
+      <item value="Code coverage support" />
+      <item value="acceptance" />
+      <item value="The command above will execute unit and functional tests. Unit tests are testing the system components, while functional&#10;tests are for testing user interaction. Acceptance tests are disabled by default as they require additional setup since&#10;they perform testing in real browser. " />
+      <item value="- Yii won't create the database for you, this has to be done manually before you can access it.&#10;- Check and edit the other files in the `config` directory to customize your application as required.&#10;- Refer to the README in the `tests` directory for information specific to basic application tests.&#10;" />
+      <item value="skeleton" />
       <item value="The number of child processes to be created when pm is set to 'static' and the&#10;; maximum number of child processes when pm is set to 'dynamic' or 'ondemand'.&#10;; This value sets the limit on the number of simultaneous requests that will be&#10;; served. Equivalent to the ApacheMaxClients directive with mpm_prefork.&#10;; Equivalent to the PHP_FCGI_CHILDREN environment variable in the original PHP&#10;; CGI. The below defaults are based on a server without much resources. Don't&#10;; forget to tweak pm. to fit your needs.&#10;; Note: Used when pm is set to 'static', 'dynamic' or 'ondemand'&#10;; Note: This value is mandatory." />
       <item value="Common birthday" />
       <item value="You can use both an array or a comma-separated list of proxy addresses,&#10;    | as well as specifying whole subnets. Here are a few examples:" />
@@ -49,24 +55,18 @@
       <item value="Page" />
       <item value="@param bool normalizeWhitespace Whether whitespaces should be trimmed and normalized to single spaces" />
       <item value="@param string|null default When not null: the value to return when the current node is empty" />
-      <item value="Returns the text of the first node of the list. Pass true as the second argument to normalize whitespaces." />
-      <item value="Returns the siblings nodes of the current selection." />
-      <item value="u" />
-      <item value="The following language lines are used to swap our attribute placeholder | with something more reader friendly such as &quot;E-Mail Address&quot; instead | of &quot;email&quot;. This simply helps us make our message more expressive." />
-      <item value="Here you may specify custom validation messages for attributes using the | convention &quot;attribute.rule&quot; to name the lines. This makes it quick to | specify a specific custom language line for a given attribute rule." />
-      <item value="Deleted or Gone" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="152" />
-        <entry key="ENGLISH" value="153" />
+        <entry key="CHINESE" value="158" />
+        <entry key="ENGLISH" value="159" />
         <entry key="BOSNIAN" value="1" />
         <entry key="ESPERANTO" value="3" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1653474577760" />
+    <option name="lastTrimTime" value="1658133297531" />
   </component>
   <component name="Settings">
     <option name="keepFormat" value="true" />
