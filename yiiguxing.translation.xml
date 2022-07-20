@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="320" />
     <option name="newTranslationDialogY" value="462" />
     <histories>
+      <item value="Cost parameter used by the Blowfish hash algorithm.&#10;      The higher the value of cost,&#10;      the longer it takes to generate the hash and to verify a password against it. Higher cost&#10;      therefore slows down a brute-force attack. For best protection against brute-force attacks,&#10;      set it to the highest value that is tolerable on production servers. The time taken to&#10;      compute the hash doubles for every increment by one of cost." />
       <item value="uncomment to avoid processing of calls to non-existing static files by Yii" />
       <item value="Code coverage support" />
       <item value="acceptance" />
@@ -54,12 +55,11 @@
       <item value="Redundant character escape '\{' in RegExp" />
       <item value="Page" />
       <item value="@param bool normalizeWhitespace Whether whitespaces should be trimmed and normalized to single spaces" />
-      <item value="@param string|null default When not null: the value to return when the current node is empty" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="158" />
-        <entry key="ENGLISH" value="159" />
+        <entry key="CHINESE" value="159" />
+        <entry key="ENGLISH" value="160" />
         <entry key="BOSNIAN" value="1" />
         <entry key="ESPERANTO" value="3" />
       </map>
