@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="320" />
     <option name="newTranslationDialogY" value="462" />
     <histories>
+      <item value="Unprocessable entity" />
+      <item value="MethodNotAllowedHttpException represents a &quot;Method Not Allowed&quot; HTTP exception with status code 405." />
+      <item value="NotFoundHttpException represents a &quot;Not Found&quot; HTTP exception with status code 404." />
+      <item value="UnauthorizedHttpException represents an &quot;Unauthorized&quot; HTTP exception with status code 401." />
+      <item value="  BadRequestHttpException represents a &quot;Bad Request&quot; HTTP exception with status code 400.&#10;" />
       <item value="Cost parameter used by the Blowfish hash algorithm.&#10;      The higher the value of cost,&#10;      the longer it takes to generate the hash and to verify a password against it. Higher cost&#10;      therefore slows down a brute-force attack. For best protection against brute-force attacks,&#10;      set it to the highest value that is tolerable on production servers. The time taken to&#10;      compute the hash doubles for every increment by one of cost." />
       <item value="uncomment to avoid processing of calls to non-existing static files by Yii" />
       <item value="Code coverage support" />
@@ -50,16 +55,11 @@
       <item value="Run a Closure when the facade has been resolved." />
       <item value="Interactive viewer for '.log' files." />
       <item value="Obfuscates URI if there is a username and a password present" />
-      <item value="Lack of first_source field values!" />
-      <item value="Construct the RemoteWebDriver by a desired capabilities. @param string selenium_server_url The url of the remote Selenium WebDriver server @param DesiredCapabilities|array desired_capabilities The desired capabilities @param int|null connection_timeout_in_ms Set timeout for the connect phase to remote Selenium WebDriver server @param int|null request_timeout_in_ms Set the maximum time of a request to remote Selenium WebDriver server @param string|null http_proxy The proxy to tunnel requests to the remote Selenium WebDriver through @param int|null http_proxy_port The proxy port to tunnel requests to the remote Selenium WebDriver through @param DesiredCapabilities required_capabilities The required capabilities @return static" />
-      <item value="Redundant character escape '\{' in RegExp" />
-      <item value="Page" />
-      <item value="@param bool normalizeWhitespace Whether whitespaces should be trimmed and normalized to single spaces" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="159" />
-        <entry key="ENGLISH" value="160" />
+        <entry key="CHINESE" value="164" />
+        <entry key="ENGLISH" value="165" />
         <entry key="BOSNIAN" value="1" />
         <entry key="ESPERANTO" value="3" />
       </map>
