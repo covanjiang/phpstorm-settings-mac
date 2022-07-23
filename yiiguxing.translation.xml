@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="320" />
     <option name="newTranslationDialogY" value="462" />
     <histories>
+      <item value="Returns all role assignment information for the specified user." />
       <item value="&#10;a PHP callback for customizing the relation associated with the junction table. Its signature should be `function(query)`, where `query` is the query to be customized.&#10;" />
       <item value="&#10;a PHP callback for customizing the relation associated with the junction table. Its signature should be `function(query)`, where `query` is the query to be customized." />
       <item value="hierarchy" />
@@ -54,7 +55,6 @@
       <item value="Match the eagerly loaded results to their many parents." />
       <item value="Build model dictionary keyed by the relation's foreign key." />
       <item value="Returns a timestamp rounded with the given precision (6 by default)." />
-      <item value="Use reflection to inspect the code, based on IlluminateSupportSerializableClosure.php" />
     </histories>
     <option name="languageScores">
       <map>
