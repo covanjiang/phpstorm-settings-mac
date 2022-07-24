@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="320" />
     <option name="newTranslationDialogY" value="462" />
     <histories>
+      <item value="optional configuration for the number formatter. This parameter will be merged with [[numberFormatterOptions]]." />
+      <item value="the number of digits after the decimal point." />
       <item value="he form name to use to load the data into the model, empty string when form not use.&#10;      If not set, [[formName()]] is used." />
       <item value="Returns all role assignment information for the specified user." />
       <item value="&#10;a PHP callback for customizing the relation associated with the junction table. Its signature should be `function(query)`, where `query` is the query to be customized.&#10;" />
@@ -53,8 +55,6 @@
       <item value="The URIs that should be excluded from CSRF verification." />
       <item value="Indicates whether the XSRF-TOKEN cookie should be set on the response." />
       <item value="If we're touching the parent model, touch." />
-      <item value="Match the eagerly loaded results to their many parents." />
-      <item value="Build model dictionary keyed by the relation's foreign key." />
     </histories>
     <option name="languageScores">
       <map>
