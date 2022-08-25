@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="320" />
     <option name="newTranslationDialogY" value="462" />
     <histories>
+      <item value="invoice" />
       <item value="This class only exists here for IDE (PHPStormNetbeans...) autocompletion." />
       <item value="Sort directions indexed by attribute names. Sort direction can be either&#10;  `SORT_ASC` for ascending order or `SORT_DESC` for descending order. Note that the type of this property&#10;  differs in getter and setter. See [[getAttributeOrders()]] and [[setAttributeOrders()]] for details." />
       <item value="optional configuration for the number formatter. This parameter will be merged with [[numberFormatterOptions]]." />
@@ -54,7 +55,6 @@
       <item value="Scalar" />
       <item value="Criteria" />
       <item value="&#10;      Determine if the request has a URI that should pass through CSRF verification.&#10;     &#10;      @param  \Illuminate\Http\Request  request&#10;      @return bool&#10;     " />
-      <item value="The URIs that should be excluded from CSRF verification." />
     </histories>
     <option name="languageScores">
       <map>
