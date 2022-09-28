@@ -1,7 +1,7 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="10.0.0.206" id="5c9ac598-2adc-4e1a-b999-a429af259184" port="22" nameFormat="DESCRIPTIVE" username="zhiwei.jiang" useOpenSSHConfig="true" />
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="10.0.0.206" id="5c9ac598-2adc-4e1a-b999-a429af259184" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="zhiwei.jiang" useOpenSSHConfig="true" />
     </configs>
   </component>
 </application>
