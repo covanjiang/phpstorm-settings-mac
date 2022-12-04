@@ -72,4 +72,16 @@
     <option name="keepFormat" value="true" />
     <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
   </component>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1670155957851" />
+  </component>
+  <component name="Translation.Settings">
+    <option name="primaryLanguage" value="CHINESE" />
+    <option name="translator" value="MICROSOFT" />
+  </component>
+  <component name="Translation.States">
+    <histories>
+      <item value="render Response" />
+    </histories>
+  </component>
 </application>
