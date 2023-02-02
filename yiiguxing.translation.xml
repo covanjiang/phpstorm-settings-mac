@@ -73,7 +73,7 @@
     <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1673852284418" />
+    <option name="lastTrimTime" value="1675329392751" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -81,13 +81,14 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Guaranteed" />
       <item value="reactor" />
       <item value="render Response" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2" />
+        <entry key="CHINESE" value="2" />
+        <entry key="ENGLISH" value="3" />
       </map>
     </option>
   </component>
