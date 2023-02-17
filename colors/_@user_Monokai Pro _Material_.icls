@@ -4,7 +4,7 @@
     <property name="created">2021-08-10T10:39:11</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.2.0.0</property>
-    <property name="modified">2023-02-16T15:38:46</property>
+    <property name="modified">2023-02-17T14:05:40</property>
     <property name="originalScheme">Monokai Pro (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.3" />
@@ -35,7 +35,7 @@
     <option name="DIAGRAM_REALIZATION_EDGE" value="ff6188" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="627982" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="1b262b" />
-    <option name="DOCUMENTATION_COLOR" value="ffffff" />
+    <option name="DOCUMENTATION_COLOR" value="2d2a2e" />
     <option name="DOC_COMMENT_GUIDE" value="5b595c" />
     <option name="DOC_COMMENT_LINK" value="78dce8" />
     <option name="ERROR_HINT" value="781732" />
