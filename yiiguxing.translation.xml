@@ -73,7 +73,7 @@
     <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1682579408895" />
+    <option name="lastTrimTime" value="1692690611774" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -81,6 +81,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="hether the keyword should be escaped if it contains characters % or _. When this parameter is true (default), the special characters % (matches 0 or more characters) and _ (matches a single character) will be escaped, and the keyword will be surrounded with a % character on both ends. When this parameter is false, the keyword will be directly used for matching without any change." />
+      <item value="whether the value should be escaped if partialMatch is true and the value contains characters % or _. When this parameter is true (default), the special characters % (matches 0 or more characters) and _ (matches a single character) will be escaped, and the value will be surrounded with a % character on both ends. When this parameter is false, the value will be directly used for matching without any change." />
+      <item value="Adds a comparison expression to the {@link condition} property. This method is a helper that appends to the {@link condition} property with a new comparison expression. The comparison is done by comparing a column with the given value using some comparison operator. The comparison operator is intelligently determined based on the first few characters in the given value. In particular, it recognizes the following operators if they appear as the leading characters in the given value: &lt;ul&gt; &lt;li&gt;&lt;code&gt;&amp;lt;&lt;code&gt;: the column must be less than the given value.&lt;li&gt; &lt;li&gt;&lt;code&gt;&amp;gt;&lt;code&gt;: the column must be greater than the given value.&lt;li&gt; &lt;li&gt;&lt;code&gt;&amp;lt;=&lt;code&gt;: the column must be less than or equal to the given value.&lt;li&gt; &lt;li&gt;&lt;code&gt;&amp;gt;=&lt;code&gt;: the column must be greater than or equal to the given value.&lt;li&gt; &lt;li&gt;&lt;code&gt;&amp;lt;&amp;gt;&lt;code&gt;: the column must not be the same as the given value. Note that when partialMatch is true, this would mean the value must not be a substring of the column.&lt;li&gt; &lt;li&gt;&lt;code&gt;=&lt;code&gt;: the column must be equal to the given value.&lt;li&gt; &lt;li&gt;none of the above: the column must be equal to the given value. Note that when partialMatch is true, this would mean the value must be the same as the given value or be a substring of it.&lt;li&gt; &lt;ul&gt; Note that any surrounding white spaces will be removed from the value before comparison. When the value is empty, no comparison expression will be added to the search condition." />
       <item value="precision" />
       <item value="partial Match" />
       <item value="expired" />
@@ -91,8 +94,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6" />
-        <entry key="ENGLISH" value="7" />
+        <entry key="CHINESE" value="9" />
+        <entry key="ENGLISH" value="10" />
       </map>
     </option>
   </component>
