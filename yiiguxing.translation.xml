@@ -73,14 +73,16 @@
     <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1692690611774" />
+    <option name="lastTrimTime" value="1702970541671" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
-    <option name="translator" value="MICROSOFT" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="@var string the name of the table storing authorization item assignments. Defaults to &quot;auth_assignment&quot;." />
+      <item value="he name of the table storing authorization item assignments. Defaults to &quot;auth_assignment&quot;." />
+      <item value="Checks if the user can perform the operation as specified by the given permission. Note that you must configure &quot;authManager&quot; application component in order to use this method. Otherwise it will always return false. @param string permissionName the name of the permission (e.g. &quot;edit post&quot;) that needs access check. @param array params name-value pairs that would be passed to the rules associated with the roles and permissions assigned to the user. @param bool allowCaching whether to allow caching the result of access check. When this parameter is true (default), if the access check of an operation was performed before, its result will be directly returned when calling this method to check the same operation. If this parameter is false, this method will always call [[\yii\rbac\CheckAccessInterface::checkAccess()]] to obtain the up-to-date access result. Note that this caching is effective only within the same request and only works when `params = []`. @return bool whether the user can perform the operation as specified by the given permission." />
       <item value="hether the keyword should be escaped if it contains characters % or _. When this parameter is true (default), the special characters % (matches 0 or more characters) and _ (matches a single character) will be escaped, and the keyword will be surrounded with a % character on both ends. When this parameter is false, the keyword will be directly used for matching without any change." />
       <item value="whether the value should be escaped if partialMatch is true and the value contains characters % or _. When this parameter is true (default), the special characters % (matches 0 or more characters) and _ (matches a single character) will be escaped, and the value will be surrounded with a % character on both ends. When this parameter is false, the value will be directly used for matching without any change." />
       <item value="Adds a comparison expression to the {@link condition} property. This method is a helper that appends to the {@link condition} property with a new comparison expression. The comparison is done by comparing a column with the given value using some comparison operator. The comparison operator is intelligently determined based on the first few characters in the given value. In particular, it recognizes the following operators if they appear as the leading characters in the given value: &lt;ul&gt; &lt;li&gt;&lt;code&gt;&amp;lt;&lt;code&gt;: the column must be less than the given value.&lt;li&gt; &lt;li&gt;&lt;code&gt;&amp;gt;&lt;code&gt;: the column must be greater than the given value.&lt;li&gt; &lt;li&gt;&lt;code&gt;&amp;lt;=&lt;code&gt;: the column must be less than or equal to the given value.&lt;li&gt; &lt;li&gt;&lt;code&gt;&amp;gt;=&lt;code&gt;: the column must be greater than or equal to the given value.&lt;li&gt; &lt;li&gt;&lt;code&gt;&amp;lt;&amp;gt;&lt;code&gt;: the column must not be the same as the given value. Note that when partialMatch is true, this would mean the value must not be a substring of the column.&lt;li&gt; &lt;li&gt;&lt;code&gt;=&lt;code&gt;: the column must be equal to the given value.&lt;li&gt; &lt;li&gt;none of the above: the column must be equal to the given value. Note that when partialMatch is true, this would mean the value must be the same as the given value or be a substring of it.&lt;li&gt; &lt;ul&gt; Note that any surrounding white spaces will be removed from the value before comparison. When the value is empty, no comparison expression will be added to the search condition." />
@@ -94,8 +96,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="9" />
-        <entry key="ENGLISH" value="10" />
+        <entry key="CHINESE" value="12" />
+        <entry key="ENGLISH" value="13" />
       </map>
     </option>
   </component>
