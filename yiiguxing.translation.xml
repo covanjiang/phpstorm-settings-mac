@@ -80,6 +80,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Performs access check for the specified user based on the data loaded from cache. This method is internally called by [[checkAccess()]] when [[cache]] is enabled." />
+      <item value="name-value pairs that would be passed to the rules associated with the roles and permissions assigned to the user." />
+      <item value="Checks if the user can perform the operation as specified by the given permission. Note that you must configure &quot;authManager&quot; application component in order to use this method. Otherwise it will always return false." />
       <item value="Note that a behavior class must extend from [[Behavior]]. Behaviors can be attached using a name or anonymously. When a name is used as the array key, using this name, the behavior can later be retrieved using [[getBehavior()]] or be detached using [[detachBehavior()]]. Anonymous behaviors can not be retrieved or detached. Behaviors declared in this method will be attached to the component automatically (on demand)." />
       <item value="Returns a list of behaviors that this component should behave as. Child classes may override this method to specify the behaviors they want to behave as. The return value of this method should be an array of behavior objects or configurations indexed by behavior names. A behavior configuration can be either a string specifying the behavior class or an array of the following structure:" />
       <item value="Configurable is the interface that should be implemented by classes who support configuring its properties through the last parameter to its constructor. The interface does not declare any method. Classes implementing this interface must declare their constructors like the following: ```php public function __constructor(param1, param2, ..., config = []) ``` That is, the last parameter of the constructor must accept a configuration array. This interface is mainly used by [[\yii\di\Container]] so that it can pass object configuration as the last parameter to the implementing class' constructor. For more details and usage information on Configurable, see the [guide article on configurations](guide:concept-configurations). @author Qiang Xue &lt;qiang.xue@gmail.com&gt; @since 2.0.3" />
@@ -119,8 +122,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="36" />
-        <entry key="ENGLISH" value="37" />
+        <entry key="CHINESE" value="39" />
+        <entry key="ENGLISH" value="40" />
       </map>
     </option>
   </component>
