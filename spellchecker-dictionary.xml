@@ -3,6 +3,7 @@
     <words>
       <w>adtype</w>
       <w>adzone</w>
+      <w>backurl</w>
       <w>bluefocus</w>
       <w>bysubunionid</w>
       <w>daterange</w>
@@ -28,14 +29,18 @@
       <w>openxmlformats</w>
       <w>realname</w>
       <w>responce</w>
+      <w>shopid</w>
       <w>sopo</w>
       <w>sopos</w>
       <w>spreadsheetml</w>
       <w>taobao</w>
+      <w>tbopen</w>
       <w>tiao</w>
       <w>tols</w>
       <w>toutiao</w>
       <w>trackings</w>
+      <w>untts</w>
+      <w>upid</w>
       <w>vdesk</w>
       <w>yyyymmdd</w>
     </words>
