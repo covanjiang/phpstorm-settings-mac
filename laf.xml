@@ -1,5 +1,5 @@
 <application>
   <component name="LafManager">
-    <laf themeId="OCEANIC" />
+    <laf themeId="MONOKAI" />
   </component>
 </application>
