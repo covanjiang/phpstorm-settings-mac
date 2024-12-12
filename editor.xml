@@ -1,22 +1,44 @@
 <application>
   <component name="CodeFoldingSettings">
     <option name="COLLAPSE_IMPORTS" value="false" />
-    <option name="COLLAPSE_DOC_COMMENTS" value="true" />
   </component>
   <component name="DaemonCodeAnalyzerSettings">
     <option name="AUTOREPARSE_DELAY" value="0" />
+    <option name="SHOW_METHOD_SEPARATORS" value="true" />
   </component>
   <component name="EditorSettings">
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="Markdown" value="true" />
+        <entry key="SQL" value="true" />
+      </map>
+    </option>
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
+    <option name="SHOW_INTENTION_BULB" value="false" />
+    <option name="USE_EDITOR_FONT_IN_INLAYS" value="true" />
+    <option name="IS_FULL_LINE_HEIGHT_CURSOR" value="true" />
+    <option name="IS_WHITESPACES_SHOWN" value="true" />
+    <option name="IS_LEADING_WHITESPACES_SHOWN" value="false" />
+    <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
     <option name="IS_DND_ENABLED" value="false" />
   </component>
   <component name="PhpCodeFoldingSettings">
+    <option name="COLLAPSE_HERE_DOCS" value="true" />
     <option name="COLLAPSE_IMPORTS" value="false" />
+    <option name="COLLAPSE_ATTRIBUTE" value="true" />
+    <option name="COLLAPSE_ATTRIBUTE_LIST" value="true" />
+  </component>
+  <component name="PhpEditorOptions">
+    <option name="SHOW_CLASS_SEPARATORS" value="true" />
+    <option name="ALWAYS_ENABLE_PHP_BACKGROUND_HIGHLIGHTING" value="true" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\b(todo|fixme)\b.*" />
+  </component>
+  <component name="XmlEditorOptions">
+    <option name="showCssInlineColorPreview" value="true" />
   </component>
 </application>
