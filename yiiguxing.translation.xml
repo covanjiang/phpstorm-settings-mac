@@ -73,13 +73,14 @@
     <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1705979869561" />
+    <option name="lastTrimTime" value="1734576790057" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="columns to get the attributes from the model, this valid value only the exist attribute on the model. If this is not set, then all attribute of the model will be set as columns." />
       <item value="caliber" />
       <item value="Updates the whole table using the provided counter changes and conditions. For example, to increment all customers' age by 1, ```php Customer::updateAllCounters(['age' =&gt; 1]); ``` Note that this method will not trigger any events." />
       <item value="This method is invoked after deleting a record. The default implementation raises the [[EVENT_AFTER_DELETE]] event. You may override this method to do postprocessing after the record is deleted. Make sure you call the parent implementation so that the event is raised properly." />
@@ -128,7 +129,8 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="45" />
-        <entry key="ENGLISH" value="46" />
+        <entry key="CHINESE_SIMPLIFIED" value="1" />
+        <entry key="ENGLISH" value="47" />
       </map>
     </option>
   </component>
