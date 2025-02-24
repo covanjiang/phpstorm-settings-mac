@@ -4,5 +4,6 @@
     <option name="grid-font-family" value="Inconsolata" />
     <option name="grid-font-size" value="13" />
     <option name="grid-line-spacing" value="1.4" />
+    <option name="boolean-mode" value="CHECKBOX" />
   </component>
 </application>

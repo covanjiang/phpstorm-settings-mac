@@ -35,6 +35,8 @@
         <entry key="js.chain.hints" value="true" />
         <entry key="js.type.hints" value="true" />
         <entry key="qodana.yaml.inspection.descriptions" value="true" />
+        <entry key="sql.column.names.inlay.hints" value="true" />
+        <entry key="sql.join.cardinality.hints" value="true" />
         <entry key="ts.chain.hints" value="true" />
         <entry key="ts.enum.hints" value="true" />
         <entry key="ts.type.hints" value="true" />
@@ -44,8 +46,13 @@
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
       <map>
+        <entry key="CSS" value="true" />
+        <entry key="HTML" value="true" />
+        <entry key="JSON" value="true" />
         <entry key="Markdown" value="true" />
         <entry key="SQL" value="true" />
+        <entry key="XML" value="true" />
+        <entry key="yaml" value="true" />
       </map>
     </option>
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
@@ -57,7 +64,6 @@
     <option name="IS_FULL_LINE_HEIGHT_CURSOR" value="true" />
     <option name="IS_WHITESPACES_SHOWN" value="true" />
     <option name="IS_LEADING_WHITESPACES_SHOWN" value="false" />
-    <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
     <option name="IS_DND_ENABLED" value="false" />
   </component>
   <component name="PhpCodeFoldingSettings">
