@@ -1,10 +1,8 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="isWizardShown" value="true" />
     <option name="accentColor" value="ffd866" />
     <option name="secondAccentColor" />
     <option name="highlightColor" />
-    <option name="focusColor" />
     <option name="selectedTheme" value="MONOKAI" />
     <option name="userId" value="41d76afa:1753e8064ad:-8000" />
     <option name="version" value="8.13.2" />

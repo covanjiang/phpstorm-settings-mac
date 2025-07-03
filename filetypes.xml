@@ -7,9 +7,14 @@
       <mapping ext="arsc" type="PLAIN_TEXT" />
       <mapping ext="stub" type="PLAIN_TEXT" />
       <mapping ext="srt" type="PLAIN_TEXT" />
+      <removed_mapping ext="bash" approved="true" type="Shell Script" />
+      <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
       <removed_mapping ext="dockerignore" approved="true" type="DockerIgnore file" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="redis" approved="true" type="Redis" />
+      <removed_mapping ext="sh" approved="true" type="Shell Script" />
+      <removed_mapping ext="zsh" approved="true" type="Shell Script" />
     </extensionMap>
   </component>
 </application>

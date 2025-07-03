@@ -15,26 +15,26 @@
   <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="CONSOLE_LIGATURES" value="true" />
   <colors>
-    <option name="DIAGRAM_NODE_HEADER" value="5b595c" />
+    <option name="DIAGRAM_NODE_HEADER" value="5B595C" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="627982" />
-    <option name="DOCUMENTATION_COLOR" value="2d2a2e" />
+    <option name="DOCUMENTATION_COLOR" value="2D2A2E" />
     <option name="ERROR_HINT" value="781732" />
-    <option name="FILESTATUS_ADDED" value="5dad0d" />
-    <option name="FILESTATUS_COPIED" value="4236d9" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="ffd866" />
+    <option name="FILESTATUS_ADDED" value="5DAD0D" />
+    <option name="FILESTATUS_COPIED" value="4236D9" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="FFD866" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
-    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="c3e887" />
-    <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
-    <option name="INFORMATION_HINT" value="2d2a2e" />
-    <option name="LINE_NUMBERS_COLOR" value="ffffff" />
-    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="ff8f00" />
-    <option name="MT_FILESTATUS_ADDED" value="5dad0d" />
-    <option name="MT_FILESTATUS_COPIED" value="4236d9" />
-    <option name="MT_FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="ffd866" />
-    <option name="NOTIFICATION_BACKGROUND" value="19181a" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="C3E887" />
+    <option name="FILESTATUS_OBSOLETE" value="FFCB6B" />
+    <option name="INFORMATION_HINT" value="2D2A2E" />
+    <option name="LINE_NUMBERS_COLOR" value="FFFFFF" />
+    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="FF8F00" />
+    <option name="MT_FILESTATUS_ADDED" value="5DAD0D" />
+    <option name="MT_FILESTATUS_COPIED" value="4236D9" />
+    <option name="MT_FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="FFD866" />
+    <option name="NOTIFICATION_BACKGROUND" value="19181A" />
     <option name="QUESTION_HINT" value="781732" />
-    <option name="SELECTION_BACKGROUND" value="6fff" />
-    <option name="TAB_UNDERLINE" value="2d2a2e" />
+    <option name="SELECTION_BACKGROUND" value="006FFF" />
+    <option name="TAB_UNDERLINE" value="2D2A2E" />
   </colors>
   <attributes>
     <option name="CTRL_CLICKABLE">

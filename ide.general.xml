@@ -15,6 +15,10 @@
     <entry key="ide.experimental.ui" value="true" source="SYSTEM" />
     <entry key="editor.focus.mode.color.light" value="5b595c" source="SYSTEM" />
     <entry key="editor.focus.mode.color.dark" value="5b595c" source="SYSTEM" />
+    <entry key="ide.balloon.shadow.size" value="0" source="SYSTEM" />
+    <entry key="ide.editor.tab.selection.animation" value="true" source="SYSTEM" />
+    <entry key="ide.new.editor.tabs.vertical.borders" value="true" source="SYSTEM" />
+    <entry key="ide.animate.toolwindows" value="true" source="SYSTEM" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
