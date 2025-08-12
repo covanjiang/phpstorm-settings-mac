@@ -1,0 +1,5 @@
+<application>
+  <component name="McpServerSettings">
+    <option name="mcpServerPort" value="64343" />
+  </component>
+</application>
