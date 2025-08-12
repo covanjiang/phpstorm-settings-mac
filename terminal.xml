@@ -1,0 +1,6 @@
+<application>
+  <component name="TerminalOptionsProvider">
+    <option name="terminalEngine" value="CLASSIC" />
+    <option name="terminalEngineInRemDev" value="CLASSIC" />
+  </component>
+</application>

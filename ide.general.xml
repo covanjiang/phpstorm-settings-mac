@@ -19,6 +19,8 @@
     <entry key="ide.editor.tab.selection.animation" value="true" source="SYSTEM" />
     <entry key="ide.new.editor.tabs.vertical.borders" value="true" source="SYSTEM" />
     <entry key="ide.animate.toolwindows" value="true" source="SYSTEM" />
+    <entry key="idea.islands.gradient.enabled" value="false" source="SYSTEM" />
+    <entry key="ide.colorful.toolbar.gradient.radius" value="600" source="SYSTEM" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
