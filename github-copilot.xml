@@ -1,11 +1,27 @@
 <application>
   <component name="github-copilot">
     <option name="signinNotificationShown" value="true" />
+    <option name="enableNextEditSuggestions" value="true" />
     <languageAllowList>
       <map>
         <entry key="*" value="true" />
       </map>
     </languageAllowList>
-    <option name="selectedCompletionModel" value="gpt-4o-copilot" />
+    <option name="selectedCompletionModel" value="gpt-41-copilot" />
+    <option name="toolConfirmAutoApprove" value="true" />
+    <terminalAutoApprove>
+      <map>
+        <entry key="/^Remove-Item\b/i" value="false" />
+        <entry key="chmod" value="false" />
+        <entry key="chown" value="false" />
+        <entry key="curl" value="true" />
+        <entry key="del" value="false" />
+        <entry key="eval" value="false" />
+        <entry key="kill" value="false" />
+        <entry key="rm" value="false" />
+        <entry key="rmdir" value="false" />
+        <entry key="wget" value="true" />
+      </map>
+    </terminalAutoApprove>
   </component>
 </application>

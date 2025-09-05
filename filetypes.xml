@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="19">
     <extensionMap>
       <mapping pattern="fileupload" type="AUTO_DETECTED" />
+      <mapping pattern="mcp.json" type="JSON5" />
       <mapping pattern=".gittgonre" type="PLAIN_TEXT" />
       <mapping ext="fasta" type="PLAIN_TEXT" />
       <mapping ext="arsc" type="PLAIN_TEXT" />

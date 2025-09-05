@@ -36,4 +36,7 @@
   <action id="VimPluginToggle">
     <keyboard-shortcut first-keystroke="alt v" />
   </action>
+  <action id="copilot.chat.show">
+    <keyboard-shortcut first-keystroke="shift meta j" />
+  </action>
 </keymap>
