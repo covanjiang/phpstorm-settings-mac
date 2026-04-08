@@ -7,6 +7,5 @@
     <option name="myCopyOnSelection" value="true" />
     <option name="terminalEngine" value="CLASSIC" />
     <option name="terminalEngineInRemDev" value="CLASSIC" />
-    <option name="useOptionAsMetaKey" value="true" />
   </component>
 </application>

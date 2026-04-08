@@ -3,6 +3,7 @@
     <option name="accentColor" value="ff6666" />
     <option name="fixActionButtonsColor" value="true" />
     <option name="monochromeColor" value="546e7a" />
+    <option name="newIconsEnabeld" value="true" />
     <option name="themedColor" value="bbbbbb" />
   </component>
 </application>
